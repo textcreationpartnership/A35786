@@ -1,0 +1,1421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves journal a romance, made of the court of Henry the II of France : printed with license at Paris, 1670 / and now made English.</title>
+            <title>Journal amoureux. English</title>
+            <author>Villedieu, Madame de, d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35786</idno>
+            <idno type="STC">Wing D1189</idno>
+            <idno type="STC">ESTC R36089</idno>
+            <idno type="EEBO-CITATION">15601875</idno>
+            <idno type="OCLC">ocm 15601875</idno>
+            <idno type="VID">104060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1590:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves journal a romance, made of the court of Henry the II of France : printed with license at Paris, 1670 / and now made English.</title>
+                  <title>Journal amoureux. English</title>
+                  <author>Villedieu, Madame de, d. 1683.</author>
+               </titleStmt>
+               <extent>[7], 126 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Ratcliff and Mary Daniel, and are to be sold by the booksellers in London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, Roger L'estrange. March 22. 1670./1."--Opposite t.p.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104060:1" rendition="simple:additions"/>
+            <p>
+               <hi>Loves Journal:</hi> A ROMANCE, Made of the COURT of <hi>HENRY</hi> the II. OF FRANCE.</p>
+            <p>Printed with Licenſe at <hi>Paris,</hi> 1670.</p>
+            <p>And now made <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Ratcliff</hi> and <hi>Mary Daniel,</hi> and are to be ſold by Bookſellers in <hi>London,</hi> 1671.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:104060:2"/>
+            <p>
+               <hi>Licenſed,</hi> Roger L'eſtrange.</p>
+            <p>March <hi>22. 1670/1.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:104060:2"/>
+            <pb facs="tcp:104060:3"/>
+            <pb facs="tcp:104060:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough there be many Illu<g ref="char:EOLhyphen"/>ſtrious Names in this Hi<g ref="char:EOLhyphen"/>ſtory, which wou'd make you believe it true; yet you ought to look on it no
+<pb facs="tcp:104060:4"/>otherwiſe, than it really is: as a little <hi>Romance</hi> made of the Reign of <hi>Henry</hi> the <hi>2d.</hi> as you have already ſeen of thoſe of <hi>Alexander</hi> and <hi>Auguſtus;</hi> in which we have made uſe of Names ſo well known, only the more agreeably to flatter your Imagination. The Princeſs of <hi>Montpenſier,</hi> which ſeem'd to Intereſt ſo many Perſons, who yet hold the chief rank in <hi>France:</hi> for this very reaſon has not concern'd any of them. And this Journal being a meer Fancy, and the Author having
+<pb facs="tcp:104060:4"/>no deſign but your Divertiſe<g ref="char:EOLhyphen"/>ment, he confidently hopes you will not draw thence any con<g ref="char:EOLhyphen"/>ſequence contrary to his Intent.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104060:5"/>
+            <pb n="1" facs="tcp:104060:5"/>
+            <head>Loves Journal.</head>
+            <div n="1" type="day">
+               <head>The Firſt Day.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Poets ſay, the Spring is the ſea<g ref="char:EOLhyphen"/>ſon of Love; let us begin with it <hi>Loves Journal:</hi> for 'twas then the young Duke <hi>Octavo</hi> arrived in <hi>France,</hi> ſo famous by his own Exploits, and for the misfortunes of his Family. He came to entreat the Aſſiſtance of <hi>Henry</hi> the Second, againſt <hi>Andrea Doria,</hi> and <hi>Ferdinando de Gonſagues,</hi> who by the ſupport of the Empe<g ref="char:EOLhyphen"/>ror
+<pb n="2" facs="tcp:104060:6"/>
+                  <hi>Charles</hi> the 5th. had inhumane<g ref="char:EOLhyphen"/>ly Murther'd his. Father <hi>Lewis de Farneſe,</hi> one of the greateſt men of his time, and a particular Friend of our <hi>Henry</hi>'s. <hi>Octavo</hi> being come to that extreme Calamity, which ſeems to be its period, and after which Fortune could not chooſe but grow weary; all things caſt a more favourable aſpect. The wea<g ref="char:EOLhyphen"/>ther during his Voyage was as pro<g ref="char:EOLhyphen"/>pitious as his wiſhes; and he arrived at Court upon a great Hunting day, which ſucceeding happily, put the King into a more pleaſant humour than ordinary. He loved the ſport exceedingly, or to ſay truly, he loved all Pleaſures with exceſs, ſo that his Court was the centre of all Delights: the Queen feign'd a complyance, <hi>Diana</hi> of <hi>Poitiers</hi> Dut<g ref="char:EOLhyphen"/>cheſs of <hi>Valentinois,</hi> his Miſtreſs, was beautifull and ayrie, and all the Courtiers devoted to pleaſure. But as <hi>Octavo</hi> knew well the in<g ref="char:EOLhyphen"/>trigues
+<pb n="3" facs="tcp:104060:6"/>of the Court, ſo he reſolv'd not to learn any of their diſpoſiti<g ref="char:EOLhyphen"/>ons. He was young and admirably well made, wiſe, but unfortunate; his grand deſign was to revenge his Fathers Murther, and not to enjoy the pleaſures of his Youth; there<g ref="char:EOLhyphen"/>fore would not be ſeen at <hi>Anet,</hi> where the King then was, but diſ<g ref="char:EOLhyphen"/>guis'd like a Traveller, and leaving all his Equipage at <hi>Lyons</hi> that might diſcover him, reſolv'd to go him<g ref="char:EOLhyphen"/>ſelf and underſtand his Intereſt and the Kings inclinations. His way lead him inſenſibly into a Foreſt, where all things ſeemed to inſpire Love; he thought the Birds made a more exquiſite Conſort than otherwhere, and the Winds brea<g ref="char:EOLhyphen"/>thed a more Amorous murmur than ith' neighbouring Fields. <hi>Venus</hi> being repreſented in ſo various and charming forms, that were it in the times of Idolatry, he had believed the Goddeſs took pleaſure to have
+<pb n="4" facs="tcp:104060:7"/>thoſe Copies drawn by the Divine Original.</p>
+               <p>
+                  <hi>Octavo</hi> ſtopt a while to conſider theſe rarities, and having been in<g ref="char:EOLhyphen"/>form'd at his arrival, the King was a Hunting, he was extremely plea<g ref="char:EOLhyphen"/>ſed, to paſs in ſo delicious a place that time the Court ſpent in their divertiſement. He ſate him down upon the Rimme of an Oval Foun<g ref="char:EOLhyphen"/>tain, where the Goddeſs was repre<g ref="char:EOLhyphen"/>ſented leaning upon a Bed of black Marble, a Rock of the ſame unpoliſhed ſupporting her head, which gently beſprinkled her body with a thouſand ſpinning ſtreams; her Armes were ſpread, as it were to receive embraces, and that part of the Statue which repreſented the ſource of Pleaſure, in a bubling wa<g ref="char:EOLhyphen"/>ter, caſt forth the lovelieſt ſpout in the whole World.</p>
+               <p>The young Duke found his griefs ſo much alleviated, by the conſide<g ref="char:EOLhyphen"/>ration of this Statue, that he had
+<pb n="5" facs="tcp:104060:7"/>continued his contemplation much longer, had he not been interrupted by one of the Hunters, who came to refreſh himſelf at the Fountain. <hi>Octavo</hi> was ſo delicately made, that our unknown Hunter could not look upon him without admiring his ex<g ref="char:EOLhyphen"/>cellent Mine; he asked him what Adventure drew him to that Quar<g ref="char:EOLhyphen"/>ter, and ofter'd him his Intereſt at Court in ſuch a manner, that he eaſily perceived him very conſide<g ref="char:EOLhyphen"/>rable there. The Duke generouſly gave him thanks for his obliging offers; at which inſtant many of the Hunters coming near, he knew by their Reſpect, 'twas the King he had been diſcourſing with. You had reaſon, ſaid the Duke plea<g ref="char:EOLhyphen"/>ſantly, to offer me your Intereſt in the Court, for I am much deceived if you have not a very conſiderable one there; and without injuring the Reſpect due to the King, I am aſſured you have as great a Power
+<pb n="6" facs="tcp:104060:8"/>there as himſelf. The King was going to confirm his opinion, when <hi>Montmorency</hi> the deareſt of his Favo<g ref="char:EOLhyphen"/>rites approach'd them, and ſhouted for joy at the ſight of <hi>Octavo,</hi> which cauſed the King to turn his face to<g ref="char:EOLhyphen"/>wards him: I humbly beg your Majeſties pardon ſaid <hi>Montmorency,</hi> that I could not command my tranſ<g ref="char:EOLhyphen"/>port at the ſight of this Stranger; 'tis the brave <hi>Octavo</hi> Son to the Duke of <hi>Parma</hi> and <hi>Placentia,</hi> of whom I have told ſo many wonders, and who is now come to confirm thoſe praiſes your Majeſty heard me give him after my return from <hi>Italy.</hi> The King having under<g ref="char:EOLhyphen"/>ſtood by this diſcourſe the birth of <hi>Octavo,</hi> did him all the civilities he could expect from an obliging and generous Prince: And knowing the practices of <hi>Andrea Doria,</hi> ima<g ref="char:EOLhyphen"/>gin'd <hi>Octavo</hi> came to deſire his Protection from his Fathers Mur<g ref="char:EOLhyphen"/>therers; therefore preventing his
+<pb n="7" facs="tcp:104060:8"/>Addreſſes, promiſed him his aſſi<g ref="char:EOLhyphen"/>ſtance with an unparallel'd good<g ref="char:EOLhyphen"/>neſs. <hi>Montmorency</hi> contributed all his power to this promiſe, having a very great eſteem for <hi>Octavo:</hi> For in the time of his exile under the Reign of <hi>Francis</hi> the laſt of that name, he ſheltred himſelf in <hi>Italy,</hi> and there contracted a very ſtrict Friendſhip with the Houſe of the <hi>Farneſes,</hi> ſo that there was not any thing he would not do to evince its reality. This firſt day being almoſt ſpent in Complements between the Duke and the Court, they left him to his freedom, that he might give the remainder to his reſt, <hi>Mont<g ref="char:EOLhyphen"/>morency</hi> conducting him to a Ma<g ref="char:EOLhyphen"/>jeſtick Apartment, where he was attended with a pomp ſuitable to the <hi>French</hi> Magnificence, and the Intereſt he took in his affairs.</p>
+            </div>
+            <div n="2" type="day">
+               <pb n="8" facs="tcp:104060:9"/>
+               <head>The Second Day.</head>
+               <p>
+                  <hi>OCtavo</hi> was ſcarce awake when <hi>Montmorency</hi> entred his Chamber. The Friendſhip this great man bore the late Duke of <hi>Parma</hi> was ſo great, and his com<g ref="char:EOLhyphen"/>paſſion for the afflictions of his Son ſo generous, that he conſulted his heart and not his grandeur, in all that concern'd the young Duke; and accordingly prevented his in<g ref="char:EOLhyphen"/>tentions, of thanking him at his own Apartment, for the obliga<g ref="char:EOLhyphen"/>tions of the precedent Evening; and interrupting him upon the firſt Complement he made him upon that account, <hi>Octavo,</hi> ſaid he, let us baniſh all Ceremonies, they are neither according to my humour, nor the friendſhip I vow'd your Fa<g ref="char:EOLhyphen"/>ther; you are young, a Stranger, and in a refin'd and amorous Court, where Love reigns in various forms,
+<pb n="9" facs="tcp:104060:9"/>therefore I will give you ſome ne<g ref="char:EOLhyphen"/>ceſſary inſtructions how to quit your ſelf bravely in all intrigues. Let us walk into the Garden, the morning is fair, and the King not yet ſtir<g ref="char:EOLhyphen"/>ring: upon this they went through a Gallery adorned with excellent Pictures, from whence by a Terraſs with Baliſters, they came into the Garden, and ſo into a cloſe Walk, where they might diſcern ten or a dozen ſpouts of water of different forms, which made a very pleaſing object. As they walked, <hi>Octavo</hi> told <hi>Montmorency</hi> ſome circum<g ref="char:EOLhyphen"/>ſtances of his Fathers death, which he knew not before, and alſo the particulars of <hi>Doria</hi>'s Rage, of the Authority of <hi>Gonſagues,</hi> and the troubles of <hi>Parma;</hi> this was their diſcourſe till they entred the Alley, when <hi>Montmorency</hi> turning himſelf ſuddenly to the Duke, ſaid ſmiling. What you have ſaid informs me of the ſtate of your Houſe, but <hi>Octavo</hi>
+                  <pb n="10" facs="tcp:104060:10"/>that of your heart who ſhall tell me? 'tis by that we muſt know the man; nor can I engage for you to the King, but as for a Stranger, while I know no more of you than all <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> may do. <hi>Octavo</hi> knew the in<g ref="char:EOLhyphen"/>trigues of the Court better than <hi>Montmorency</hi> imagin'd; he was not ignorant that the King exceſſively loved the beautifull <hi>Diana,</hi> and that 'twas for her he built the magni<g ref="char:EOLhyphen"/>ficent Houſe of <hi>Anet,</hi> where the greateſt Artiſts in Chriſtendom were then compleating this Maſter<g ref="char:EOLhyphen"/>piece; and as 'tis natural for Sub<g ref="char:EOLhyphen"/>jects to follow their Princes exam<g ref="char:EOLhyphen"/>ple, ſo he knew Love was the ſureſt means to get his favour: yet he alſo knew the Kings jealouſie of <hi>Diana,</hi> and her little care to make it dye, therefore reſolv'd to pre<g ref="char:EOLhyphen"/>vent thoſe inconveniences his good Mine might cauſe. And with a look extreamly melancholly, ſaid to <hi>Montmorency,</hi> Alas! the affairs
+<pb n="11" facs="tcp:104060:10"/>of my Family are all thoſe of my heart; I have ſo ſmall an inclina<g ref="char:EOLhyphen"/>tion to Love, as though had I no<g ref="char:EOLhyphen"/>thing elſe to do but Love, I could not reſolve to quit my Indifference. Judge then how that can be re<g ref="char:EOLhyphen"/>ceiv'd in a heart fill'd with revenge and ambition, which could not tempt me in my peacefull leaſure. Ah! <hi>Octavo,</hi> reply'd <hi>Montmorency,</hi> you have given me the pourtract of your ſentiments, but not in the <hi>French</hi> dreſs; you muſt Love in this Court, or reſolve to be hated by all our Courtiers; the King loves, the Duke <hi>D'aumale</hi> loves, <hi>St. Andre, Farnae,</hi> and <hi>Chaſtaigne<g ref="char:EOLhyphen"/>raiſe</hi> feel its flames.</p>
+               <p>
+                  <hi>Stroſſi</hi> as brave a Captain as he is, has the ſame concerns, and I for my part aſſure you my Gray hairs ſhould not countermand my Love, knew I any Fair one would accept me as I am. In ſaying this, he was accoſted by ſeveral perſons,
+<pb n="12" facs="tcp:104060:11"/>who brought him word the King was awake; he took the Duke with him to his Majeſties Apart<g ref="char:EOLhyphen"/>ment, where the expectation of the Queen, the indiſpoſition of Madam <hi>de Valentinois,</hi> who had kept her bed three dayes, and the miſ<g ref="char:EOLhyphen"/>fortunes of the Duke, were the mornings News, till unawares they fell upon the Chapter of Love, which at thoſe times never miſſed; the King not ſeeing the Duke <hi>D'aumale</hi> there, ſaid pleaſantly, he was dreſſing himſelf fine againſt the Ladies came: <hi>Montmorency</hi> an<g ref="char:EOLhyphen"/>ſwer'd, the Princeſs <hi>Claudia</hi> his Majeſties Siſter would be intereſs'd in his Gallantry; the King re<g ref="char:EOLhyphen"/>ply'd, he knew not whether the young Princeſs <hi>Margaret</hi> his Daugh<g ref="char:EOLhyphen"/>ter would not diſpute it with her Aunt; paſſing from one thing to another, never a Lord in the com<g ref="char:EOLhyphen"/>pany but had a touch of Raillery upon the Royal Troop they ex<g ref="char:EOLhyphen"/>pected.
+<pb n="13" facs="tcp:104060:11"/>According to what I un<g ref="char:EOLhyphen"/>derſtand, ſaid <hi>Octavo</hi> to <hi>Montmo<g ref="char:EOLhyphen"/>rency,</hi> I am happy in my Inſenſibi<g ref="char:EOLhyphen"/>lity, for by his Majeſties deſcrip<g ref="char:EOLhyphen"/>tion, I ſhould find thoſe places I would poſſeſs Garriſon'd by ano<g ref="char:EOLhyphen"/>ther. The King deſiring to hear what the Duke ſaid, <hi>Montmorency</hi> repeated it, and telling the ſubject of their diſcourſe, charg'd <hi>Octavo</hi> ſo home with his Indifference, that he was forc'd to uſe all his wit to maintain it; the King ſaying, the Ladies beauties and not the Mens perſwaſions muſt cure his diſtem<g ref="char:EOLhyphen"/>per, went immediately to meet the Queen, and the whole Court, who were juſt arrived; which being compoſed of very beautifull Wo<g ref="char:EOLhyphen"/>men, <hi>Montmorency</hi> ſaw not one without asking the Duke if he were ſtill Inſenſible; alwayes the ſame, anſwer'd <hi>Octavo,</hi> I ſee no<g ref="char:EOLhyphen"/>thing there can convince me, though I know the Court of <hi>France</hi>
+                  <pb n="14" facs="tcp:104060:12"/>is admirable, every one of her La<g ref="char:EOLhyphen"/>dies are a Feaſt to my eyes, with<g ref="char:EOLhyphen"/>out concerning my heart. <hi>Mont<g ref="char:EOLhyphen"/>morency</hi> ſaying, he muſt leave him to be convinc'd by time, and the pleaſure of ſeeing his affairs in a better condition, took him to Dinner, and afterwards ſhew'd him his Stables, the Kings Hounds, with the Carving and Painting which ſo much adorned that ſtate<g ref="char:EOLhyphen"/>ly Houſe; when hearing the King was at the Counſell, he conducted <hi>Octavo</hi> to the Queens Apartment, where having told the Princeſs <hi>Claudia,</hi> (who was ingenuous and ayrie) he had brought an Enemy of Love to be converted by her charms, he went to negotiate for him at the Counſell. <hi>Octavo</hi> was ſo well made and ſo pleaſing, that never a Lady in the Court, but ſecretly reproach'd her eyes for leaving his liberty ſo long in his own power. But as he knew there
+<pb n="15" facs="tcp:104060:12"/>was never a one but had ſome Gal<g ref="char:EOLhyphen"/>lant of Quality, ſo he knew in the preſent juncture of his affairs, he had need of all helps, therefore ſaid ſo many things to perſwade his In<g ref="char:EOLhyphen"/>difference, that the whole Court be<g ref="char:EOLhyphen"/>liev'd him, and he was already call'd as much the <hi>Inſenſible,</hi> as Duke <hi>Octa<g ref="char:EOLhyphen"/>vo.</hi> In the evening he had the ho<g ref="char:EOLhyphen"/>nour to lead the Queen a walking, and to hear with her a Conſort of Haubois, which the King placed upon the water, that adjoyned to the fair <hi>Diana</hi>'s Lodgings: This Conſort was follow'd by Artificial Fireworks, all the Figures repre<g ref="char:EOLhyphen"/>ſenting Half-moons, and ſtreams of Fire. And the Duke <hi>Farneſe</hi> not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding a conveniency to ſpeak with <hi>Montmorency</hi> all that evening, un<g ref="char:EOLhyphen"/>derſtood not what the Counſell had <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one in his favour, but ſtayd to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nform'd till the next morning.</p>
+            </div>
+            <div n="3" type="day">
+               <pb n="16" facs="tcp:104060:13"/>
+               <head>The Third Day.</head>
+               <p>THe fair Dutcheſs of <hi>Valenti<g ref="char:EOLhyphen"/>nois</hi> having known by the King, and ſome others who had the liberty to ſee her in bed, the arrival of the young Duke of <hi>Parma,</hi> and what was already ſaid of his Indiffe<g ref="char:EOLhyphen"/>rence for the Ladies beauty, pleas'd her ſelf with the thoughts that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he had ſeen her, he would ſoon change his mind, and being alwayes proud of her own, had ſhewn by <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hundred circumſtances ſhe eſteem'd it above all; ſhe felt ſuch a deſire to triumph over the Indifference o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this raſh Youth, that ſhe could hardly brook her ſlow amendment for retarding her Victory; but ſent for <hi>Montmorency,</hi> (who was abſolutely hers) and diſcourſing o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Duke of <hi>Parma</hi>'s Inſenſibility as of a wonder, attributed it to ſo many different defects, that ſhe in<g ref="char:EOLhyphen"/>genuouſly
+<pb n="17" facs="tcp:104060:13"/>obliged him to make her <hi>Octavo</hi>'s Pourtract, as that he was infinitely well made, of a quick wit, and his Indifference could not be attributed to any want of good humour or knowledge; the more queſtions the Dutcheſs asked, the more her deſire encreas'd to van<g ref="char:EOLhyphen"/>quiſh his Indifference. She pray'd <hi>Montmorency</hi> to walk with him that evening, in a part of the Garden ſhe told him, where ſhe would be undiſcover'd, and endeavour to ſee the Duke without being ſeen by him; ſaying ſhe choſe that way, becauſe ſhe had not ſeen the Queen ſince her arrival at <hi>Anet,</hi> who might juſtly complain of her, if ſhe per<g ref="char:EOLhyphen"/>ceiv'd her well enough to receive the Viſits of a Stranger, but feign'd an indiſpoſition whe ſhe ought to wait on her Majeſty; though the truth is, the Dutcheſs thought there was ſomewhat more Gallan<g ref="char:EOLhyphen"/>try to ſee him this way, than in her
+<pb n="18" facs="tcp:104060:14"/>Chamber. <hi>Montmorency</hi> was ſo much obliged to her, that ſhe durſt have communicated it to him though it had been a more guilty deſign. 'Twas to her he owed his return to the Court, and the Kings favour; for 'tis publickly known, the deceaſed King <hi>Francis</hi> upon his Death-bed, commanded his Son never to ſuffer his return: But <hi>Diana</hi> was ſo powerfull with this Monarch, that neither his Fathers commands, the counſels of his moſt faithfull Friends, nor the Queens moſt private deſigns, could ever prevail againſt the intreaties of his Miſtreſs. Therefore <hi>Montmorency</hi> thought himſelf highly honour'd in her choice of him to do her that little ſervice, and went immediate<g ref="char:EOLhyphen"/>ly to look the Duke, whom he found coming from his own Apart<g ref="char:EOLhyphen"/>ment, where he had been to Viſit him; thither they return'd, and the Duke asking him what the
+<pb n="19" facs="tcp:104060:14"/>King had reſolv'd in his affairs, was informed that obliging. Prince prepar'd to protect him with all his Power, and for that intent had given out Commiſſions for the raiſing new Troops, ſo that in a little time, he might ſee Forty Thouſand men armed for his de<g ref="char:EOLhyphen"/>fence. This happy news put the Duke in ſo good a humour, as made him twice more lovely than before; he thank'd the King with ſuch a Grace, as abſolutely gain'd him, and was ſo pleaſant all that day with the Queen and the La<g ref="char:EOLhyphen"/>dies, that they talkt of nothing but him. Evening being come, <hi>Mont<g ref="char:EOLhyphen"/>morency</hi> pretended ſome new Que<g ref="char:EOLhyphen"/>ſtions with him, concerning the Forces with which <hi>Gonſagnes</hi> took <hi>Placentia</hi> ſome time before, alſo what Intelligence he had in <hi>Italy;</hi> to diſcourſe this more convenient<g ref="char:EOLhyphen"/>ly, he led him into a private Walk, which abutted upon a green Arbor,
+<pb n="20" facs="tcp:104060:15"/>from whence without being diſ<g ref="char:EOLhyphen"/>cern'd one might ſee who walk'd in the Alley. 'Twas in this Bower the Dutcheſs ſtayd, accompanied with one of her Women who ſhe truſted above any, call'd <hi>Saint-Brune,</hi> and follow'd by a little <hi>Polander</hi> lately preſented her, who common<g ref="char:EOLhyphen"/>ly carried her Mantle. When <hi>Mont<g ref="char:EOLhyphen"/>morency</hi> came within hearing of the Arbor, With your permiſſion, ſaid he to the Duke, how d'ye find your Indifference? I thought all day I had ſomething to ask you, and it ſlipt out of my memory till now: I beſeech you, reply'd <hi>Octavo,</hi> let it alwayes do ſo, for I can make you but the ſame anſwer I have already, that is, I never did love, do not now, nor if I can help it never will; the revenge of my Fathers death, with the re-eſtabliſhment of my Fortune, poſſeſſes my whole Soul; and beſides, I have ſo great a love for Glory, that I dare pro<g ref="char:EOLhyphen"/>miſe
+<pb n="21" facs="tcp:104060:15"/>my ſelf my heart will never change it for any other paſſion. Truely very fine ſentiments, ſaid <hi>Montmorency,</hi> and worthy the Son of <hi>Lewis Farneſe:</hi> But <hi>Octavo,</hi> Love and Glory are not inconſiſtent in a brave mind, for both poſſeſs'd <hi>Alexanders.</hi> You may rather ſay, anſwer'd the Duke, they both flou<g ref="char:EOLhyphen"/>riſh in the mind of your brave <hi>Henry,</hi> who is the beſt of Kings, yet I know he adores the fair <hi>Diana;</hi> but all theſe examples dont convince me, for thoſe great men who give way to Love, under<g ref="char:EOLhyphen"/>ſtand the ſtrength of their own Reaſon, and know their paſſion ſhall ever be ſubjected to it; therefore looking upon Love as a divertiſe<g ref="char:EOLhyphen"/>ment, lay themſelves open to it, without fearing its evil conſe<g ref="char:EOLhyphen"/>quence; but as for me, my power is not ſo Soveraign over my ſelf, for I underſtand ſo well that if I did Love at all, I ſhould do it to
+<pb n="22" facs="tcp:104060:16"/>exceſs; that rather than hazard Loving too much, I will not Love at all. Alas, ſaid <hi>Montmorency,</hi> clapping him upon the ſhoulder with his hand, Love is not ſo ex<g ref="char:EOLhyphen"/>ceſſive as you imagine; 'tis a Mon<g ref="char:EOLhyphen"/>ſter to you, only becauſe you look upon it at a diſtance, but if ever you grow familiar with it, you will find it makes no ſuch havock as you think of; when like you we are young, well made, and fit to be loved, we eſteem our ſelves more than we love others; and if plea<g ref="char:EOLhyphen"/>ſure make us quit our Reaſon, ſelf-love knows the art to reduce us into the limits of neceſſity and uſe<g ref="char:EOLhyphen"/>fulneſs. That which you ſay may be real, reply'd <hi>Octavo,</hi> but your Truths perſwade me not; Fortune ſhall do what ſhe pleaſes with my heart, I leave it to her; but as for Love, with your permiſſion I muſt forbid it to my Grave.</p>
+               <p>If I could ever have entertain'd
+<pb n="23" facs="tcp:104060:16"/>it, 'twould have been for the beau<g ref="char:EOLhyphen"/>tifull Princeſs of <hi>Milan,</hi> who is cer<g ref="char:EOLhyphen"/>tainly one of the lovelieſt perſons in the World, and whoſe Allyance would have prevented the calami<g ref="char:EOLhyphen"/>ties of our Family: The fair Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Florence,</hi> with whom I was bred, had vanquiſh'd my Inſenſibi<g ref="char:EOLhyphen"/>lity were it poſſible to be over<g ref="char:EOLhyphen"/>come, and I need not have come ſo far to preſent a heart to your <hi>French</hi> Ladies, which perhaps they may think unworthy of their charms, ſince I ſhall ſee them but as a Pil<g ref="char:EOLhyphen"/>grim in a Voyage. The Dutcheſs who heard this diſcourſe, was ex<g ref="char:EOLhyphen"/>ceedingly jealous of her Beauty, and ſuffer'd with impatience thoſe praiſes which <hi>Octavo</hi> gave the Princeſſes of <hi>Milan</hi> and <hi>Florence. Montmorency</hi> knew the Dutcheſs well enough to underſtand her jea<g ref="char:EOLhyphen"/>louſie, and turning himſelf briskly to the Duke, Go, ſaid he, I find you a thouſand times more guilty
+<pb n="24" facs="tcp:104060:17"/>than I thought you were; I look'd upon you as a baſhfull young man, who had more fear his firſt amours might not ſucceed, than antipathy to eſſay it; but ſince your Indiffe<g ref="char:EOLhyphen"/>rence is a wilfull hardning of your ſelf, I declare to you, that you are not according to my humour, and that I eſteem you not half ſo much as I did. <hi>Montmorency</hi> was upon theſe terms only to complement the Dutcheſs, who heard them; but the Duke not knowing his deſign, and perceiving his earneſtneſs in the diſcourſe, thought the King had given him ſome private orders, to diſcover his true ſentiments, which made him the more reſolute to de<g ref="char:EOLhyphen"/>fend his Inſenſibility, and made him draw ſuch a pourtract of all the evils of Love, as would have ſmother'd deſire, in a heart the moſt inclinable to that paſſion; ſo paſſing from Reaſoning to Exam<g ref="char:EOLhyphen"/>ples, he enlarg'd upon the weakneſs
+<pb n="25" facs="tcp:104060:17"/>of <hi>Mark Anthony,</hi> and ſeveral other places in Hiſtory that fitted his ſubject, in ſuch a manner as made the fair <hi>Diana</hi> think ſhe had never ſeen a man ſo pleaſing and ſo witty as the Duke of <hi>Parma;</hi> in the heat of their diſcourſe, they walk'd be<g ref="char:EOLhyphen"/>tween whiles, and the night not be<g ref="char:EOLhyphen"/>ing very dark, Madam <hi>de Valenti<g ref="char:EOLhyphen"/>nois</hi> ſaw the Dukes Stature and ma<g ref="char:EOLhyphen"/>jeſtick Mine; then joyning the charms of his wit, to thoſe ſhe ob<g ref="char:EOLhyphen"/>ſerv'd in his perſon, ſhe had ſuch an extreme deſire to know him more particularly, that if it might not be call'd Love, 'twas at leaſt a great inclination to become ſo.</p>
+            </div>
+            <div n="4" type="day">
+               <pb n="26" facs="tcp:104060:18"/>
+               <head>The Fourth Day.</head>
+               <p>'TIs not to be imagined how deſirous the Dutcheſs was to ſhew the Duke, the Princeſſes he had ſo much praiſed, were not the faireſt in the World; upon her firſt ſight of the King, ſhe aſſured him ſhe found her ſelf well enough to take the air that day, his Majeſty telling her he expected a <hi>Scotch</hi> Prince, who came to deſire his aſſiſtance for the young Queen, whom the <hi>Engliſh</hi> would take by force for <hi>Edward</hi> their King; ſhe being deſirous to ſee his Reception, there needed no more to make his Majeſty comply with her inclina<g ref="char:EOLhyphen"/>tion. He ordered they ſhould cauſe the Earl to paſs by a Terraſs, built the length of her Apartment, and deferr'd his Audience till <hi>Di<g ref="char:EOLhyphen"/>ana</hi> could conveniently be upon it, from whence ſhe not only
+<pb n="27" facs="tcp:104060:18"/>ſaw the Ambaſſador, but all the perſons of Quality of the Court, (who were commanded to receive and conduct him to his Audience) as they paſſed in order before the place where ſhe was ſeated. The fair <hi>Diana</hi> was in a careleſs dreſs, but exceeding magnificent and well contrived, her natural beauty of it ſelf aſſuredly charming, was ador<g ref="char:EOLhyphen"/>ned with ſo many Jewels as dazled the Duke of <hi>Parma,</hi> (who ſaw her ſeveral times as he paſs'd by) and the Earl was pierced to the very hearts, ſtopping at the ſight of her, as if he had been Planet ſtruck. The Dutcheſs obſerving with plea<g ref="char:EOLhyphen"/>ſure this effect of her beauty, re<g ref="char:EOLhyphen"/>doubled ſuch piercing glances, as made him from that very moment the moſt paſſionate of all Lovers; but perceived with grief, her charms were not ſo powerfull upon the Duke <hi>Octavo</hi>'s heart: For al<g ref="char:EOLhyphen"/>though he thought her admirably
+<pb n="28" facs="tcp:104060:19"/>fair, the Kings goodneſs was ſo con<g ref="char:EOLhyphen"/>tinually before him, that he ſhun'd her eyes as ſome dangerous Rock. This cunning woman, who under<g ref="char:EOLhyphen"/>ſtood the dumb language of the eyes, and who was experienced in all the little geſtures and motions of the body, with diſpleaſure re<g ref="char:EOLhyphen"/>markt the Duke <hi>Farneſes.</hi> In the evening ſhe told the King, ſhe would be glad to ſee ſome com<g ref="char:EOLhyphen"/>pany, who brought her the Duke of <hi>Parma,</hi> and the <hi>Scotch</hi> Earl, whom ſhe received leaning upon a Couch ſtrewed with Flowers where ſhe pretended her indiſpoſi<g ref="char:EOLhyphen"/>tion caus'd her to reſt. This poſture and the Dutcheſſes amorous carri<g ref="char:EOLhyphen"/>age, touched our Inſenſible to the quick, ſo that the fair <hi>Diana</hi> per<g ref="char:EOLhyphen"/>ceived, he was not ſo much a Phi<g ref="char:EOLhyphen"/>loſopher as the night before.</p>
+            </div>
+            <div n="5" type="day">
+               <pb n="29" facs="tcp:104060:19"/>
+               <head>The Fifth Day.</head>
+               <p>SHe would be aſſured the next day, and commanded <hi>Saint Brune</hi> to ſatisfie her deſire; this apt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irle, who had Wit, and as they ſay, experience in Amorous affairs, quit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed her ſelf worthy the truſt repoſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her. She went to the Kings Maſſe, and choſe her Seat ſo well, that with<g ref="char:EOLhyphen"/>out ſhewing any deſign, ſhe was be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide the Duke of <hi>Parma,</hi> who took notice of her, by the reſpect was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hewn her, and had the curioſity to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sk who ſhe was; being informed <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was St. <hi>Brune,</hi> the beſt beloved by Madam <hi>de Valentinois</hi> of all her wo<g ref="char:EOLhyphen"/>men, he whiſper'd in her ear ſome Gallantries upon her ſeeming Devo<g ref="char:EOLhyphen"/>tion: All <hi>France</hi> knew ſo well what an abſolute power the fair <hi>Diana</hi> had with the King, as had the Duke only conſulted his Politicks, he ought not to have ſlipt that opportunity
+<pb n="30" facs="tcp:104060:20"/>of being acquainted with her Fa<g ref="char:EOLhyphen"/>vourite. But beſide this conſide<g ref="char:EOLhyphen"/>ration, St. <hi>Brune</hi> was exceeding Lovely, yet the great Motive was he thought her Miſtreſs the Even<g ref="char:EOLhyphen"/>ing before, the moſt charming Perſon in the whole world; all theſe reaſons made him ſay a thou<g ref="char:EOLhyphen"/>ſand kind things to her woman during Maſſe; this crafty Favou<g ref="char:EOLhyphen"/>rite anſwer'd him ſo wittily, and wholly engaging, that without h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuſpecting any hidden deſign, ſhe inſenſibly obliged him to lead her to her Chamber; as they went, the Duke could not forbear praiſing her Wit and Beauty; when ſhe was paſt the danger of being over heard, ſhe turn'd ſuddenly to him and ſaid, my Lord Duke I know to whom you addreſs your Com<g ref="char:EOLhyphen"/>pliments; you tell them me only to ſay them over again, and the reward you expect for your kindneſ<g ref="char:EOLhyphen"/>ſes, is that I aſſure the Dutcheſs
+<pb n="31" facs="tcp:104060:20"/>you know how to diſtribute them. <hi>Octavo</hi> thought he ſhould have fallen down at this diſcourſe; he did but juſt believe himſelf that Madam <hi>de Valentinois</hi> was Beautifull, nor had he reveal'd it to any, and look<g ref="char:EOLhyphen"/>ing upon this as a deſign to ruine him with the King; who I! cry'd <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, I love Madam <hi>Valentinois!</hi> yes, yes, you do love her, reply'd St. <hi>Brune,</hi> (counterfeiting a great free<g ref="char:EOLhyphen"/>dom) and gave her a hundred looks yeſterday that aſſured her of it, and 'tis by her Order, I inform you ſhe takes notice on't, and is exceeding<g ref="char:EOLhyphen"/>ly ſurpriz'd to ſee ſo wiſe a man as you ſeem to be, ſhould thus preferre his deſires before his Intereſt: She ſayes, ſhe thinks boldneſs becomes young folks very well, but thought you not capable of what ſhe obſer<g ref="char:EOLhyphen"/>ved; and in fine, ſhe conjures you not to give way to this Paſſion. The King being with the Dutcheſs, St. <hi>Brune</hi> was fain to run into her Mi<g ref="char:EOLhyphen"/>ſtreſſes
+<pb n="32" facs="tcp:104060:21"/>Chamber, to carry her ſome <hi>Spaniſh</hi> Gloves, which ſhe knew ſhe would preſent his Majeſty, and left the Duke in the greateſt con<g ref="char:EOLhyphen"/>fuſion he ever was in. He had too much wit, not to perceive St. <hi>Brunes</hi> preciſe remonſtrance to be an inge<g ref="char:EOLhyphen"/>nuons Leſſon what he ſhould do, and not a reproach for what he had already done; and this advance from one of the Lovelieſt perſons in the World, and beloved by a Great King, pleaſingly flattred his Vanity; his firſt emotion was a tranſ<g ref="char:EOLhyphen"/>port of Joy, which appear'd in his Eyes and Face; then again, that reſpect which he owed to the King, and the fear of loſing ſo neceſſary an aſſiſtance, ſhould he diſagree with <hi>France,</hi> made him look upon that as ill Fortune, which juſt be<g ref="char:EOLhyphen"/>fore he thought the greateſt happi<g ref="char:EOLhyphen"/>neſs; his mind was ſo full of vari<g ref="char:EOLhyphen"/>ous thoughts, that to hinder the Knowledge of his diſturbance from
+<pb n="33" facs="tcp:104060:21"/>any curious Eyes, he walkt alone into a Wood, there two whole hours going backwards and forwards at a great rate; then ſtopping on a ſudden, without knowing poſitively what to determine: but in the end Love remain'd Victorious. The Duke being of an Age wherein 'tis hard to be Cruel, when Beauty makes the firſt overtures, and be<g ref="char:EOLhyphen"/>ſides, he knew a woman contemn'd, is capable of the greateſt Cruelty Revenge can inſpire. He went to the Queens Lodgings, where St. <hi>Brune</hi> wittily informed him, the Dutcheſs would ſpend a part of that day, and there counterfeiting an ex<g ref="char:EOLhyphen"/>treme diſtraction and languiſhing, had a thouſand private Aſſurances he was obſerv'd; the Dutcheſs ſeveral times asked the Ladies and the Courtiers, if the Duke uſed to be ſo Melancholy; and being told they ne<g ref="char:EOLhyphen"/>ver ſaw him ſo gloomy before, ſhe ſeem'd to think it was the unhap<g ref="char:EOLhyphen"/>py
+<pb n="34" facs="tcp:104060:22"/>ſtate of his Affairs that made him ſo out of Humour, and ſhewing an obliging Compaſſion for his misfor<g ref="char:EOLhyphen"/>tunes, Courage my Lord Duke, ſaid ſhe, we ſhould not be diſmay'd by the blows of Fortune; that which ſeems the moſt difficult, is many times the moſt eaſily accom<g ref="char:EOLhyphen"/>pliſhed; we are in a buſineſs where our Intereſt is great enough to fore<g ref="char:EOLhyphen"/>tell you a happy Iſſue. As the Dutcheſs ſaid this by the by, ſo he ſuſpecting thoſe about him, made no other anſwer than with his Eyes but pleaſed himſelf with the thoughts that he was underſtood.</p>
+            </div>
+            <div n="6" type="day">
+               <pb n="35" facs="tcp:104060:22"/>
+               <head>The Sixth Day.</head>
+               <p>HOw pleaſant was the Night that followed this happy Day? the fair Dutcheſs of <hi>Valenti<g ref="char:EOLhyphen"/>nois</hi> was continually in <hi>Octavo</hi>'s Ima<g ref="char:EOLhyphen"/>gination, anticipating his Diſ<g ref="char:EOLhyphen"/>courſe, and in ſome ſort his deſires. See what a great Soul is, ſaid he to himſelf, thus all women of ſinceri<g ref="char:EOLhyphen"/>ty and wit ſhould do; and if the reſt of women-kind knew ſo well the value of each Moment, we need not ſpend half our lives, making pittiful faces and uſeleſs ſighs. Theſe reflections gave him ſuch an Idea of the Pleaſures to come, as made him enjoy one little leſs for the preſent; (his pleaſing thoughts making him forget he was alone, and the extrava<g ref="char:EOLhyphen"/>gance of talking when there's none to anſwer:) how Lovely ſhe is! con<g ref="char:EOLhyphen"/>tinu'd he, and how Charming is this Procedure to a man of a generous
+<pb n="36" facs="tcp:104060:23"/>Mind? theſe thoughts entertaining him the greateſt part of the Night, he wak'd ſo late the next morning, that <hi>Montmorency</hi> and the Marqueſs of <hi>Jarnac,</hi> (who came to fetch him to Dinner with the Duke <hi>D'au<g ref="char:EOLhyphen"/>male,</hi> where the <hi>Scotch</hi> Earl alſo was) found him in Bed. <q>Ha! cry'd <hi>Montmorency,</hi> (entring the Cham<g ref="char:EOLhyphen"/>ber) pray ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e how Loves Ene<g ref="char:EOLhyphen"/>mies imploy their time; they ſeem to be i'th World for nothing but to ſleep, and the Suns Riſing is a Beauty of Nature too Precious for their Sight. Why then, (re<g ref="char:EOLhyphen"/>ply'd the Duke of <hi>Parma,</hi> ſmiling) d'you think ſleep ſo great an evil, that you reproach it to my Indiffe<g ref="char:EOLhyphen"/>rence as a Crime? Yes, ſaid <hi>Mont<g ref="char:EOLhyphen"/>morency</hi> ſmartly, whatever comes from a bad Cauſe, can produce no good effect; and conſequently you muſt either reſolve to quit your In<g ref="char:EOLhyphen"/>ſenſibility, or I muſt be no longer of your Friends. Ha Sir, (anſwer'd
+<pb n="37" facs="tcp:104060:23"/>the Duke, taking <hi>Montmorency</hi> by the hand) if you pleaſe then do not deprive me of your Friendſhip.</q> His new Paſſion forc'd this from him againſt his Will: and fearing the Marqueſs <hi>de Jarnac</hi> might take notice of it, he added. <q>But ſtay till Love conſtrain me to complain of him, and do not make him Per<g ref="char:EOLhyphen"/>ſecute me before hand, by being the Author of your averſion for me.</q> The Marqueſs helpt the Duke to defend the freedom of the Mind and Inclinations: when paſſing from this Diſcourſe, to the arrival of the <hi>Scotch</hi> Ambaſſador, <hi>Montmorency</hi> told <hi>Octovo,</hi> that this <hi>Scotch</hi> Prince praiſed Madam <hi>de Valentinois</hi> ſo ex<g ref="char:EOLhyphen"/>ceſſively, as made the whole Court believe he would ſoon be in love with her, if he were not already. This News made <hi>Octavo</hi> feel a ſe<g ref="char:EOLhyphen"/>cret envy, and ſhew'd him the fair <hi>Diana</hi>'s Charms had left a deeper impreſſion in his Heart than he ima<g ref="char:EOLhyphen"/>gined.
+<pb n="38" facs="tcp:104060:24"/>
+                  <hi>Montmorency</hi> going into the Gallery of Pictures, that the Duke might dreſs himſelf with the more conveniency, whither he follow'd him with the ſooneſt; then they went together to the Duke <hi>D'aumales,</hi> whoſe good Cheer took up a part of the day. From thence all the Compa<g ref="char:EOLhyphen"/>ny went to the King, where he was ſeeing ſome Horſes rid, which the Queen of <hi>Scots</hi> had preſented him. The Duke <hi>Octavo</hi> perceiving the Court ſo well imploy'd, thought he could never find a time more favou<g ref="char:EOLhyphen"/>rable to viſit the Dutcheſs; therefore privately withdrew himſelf from the Company, and repair'd to Ma<g ref="char:EOLhyphen"/>dant <hi>de Valentinois;</hi> he knew ſhe was in an Arbor of Rock-work that adjoyned to her Summer apart<g ref="char:EOLhyphen"/>ment, which doubtleſs was one of the moſt agreeable places in the World. All its Furniture was lit<g ref="char:EOLhyphen"/>tle Boles of Fountains, Cuſhions of Cloth of Gold, and <hi>China</hi> Flower<g ref="char:EOLhyphen"/>pots
+<pb n="39" facs="tcp:104060:24"/>fill'd with Flowers; a <hi>Venus</hi> of White Marble, form'd a Grotto the length of the Arbor, and Eight or Ten <hi>Cupids,</hi> ſome ſleeping, o<g ref="char:EOLhyphen"/>thers imploy'd in the Goddeſſes ſer<g ref="char:EOLhyphen"/>vice, made as many various ſpouts of water, which reflecting upon ſeve<g ref="char:EOLhyphen"/>ral looking-Glaſſes that adorn'd this Bower, glid away with a delici<g ref="char:EOLhyphen"/>ous murmur through ſmall Leaden Pipes. At the End of the Arbor was a Couch made <hi>Portugal</hi> faſhion, and by a corniſh of Rock-work that jetted out, hung a thouſand branches of Greens intermixt with Flowers, which made a Canopy over the Dutcheſs head, who lay under it. The Duke thought her ſo Lovely in this poſture, that he ſtood like one in a maze; <hi>Diana</hi> knowing perfectly the effects of her Beauty, felt a ſecret joy for <hi>Octavo</hi>'s Trouble, which made her yet more Charm<g ref="char:EOLhyphen"/>ing. 'Tis ſo cuſtomary with Love to produce baſhfulneſs in young Lo<g ref="char:EOLhyphen"/>vers,
+<pb n="40" facs="tcp:104060:25"/>that if Madam <hi>de Valentinois</hi> had not had more reſolution than the Duke of <hi>Parma,</hi> this interview ſo commodious and worthy to be well imploy'd, had been loſt in ſilence and admiration: but the fair Dut<g ref="char:EOLhyphen"/>cheſs growing weary of this Dumb Muſick, asked the Duke, how his Affairs proceeded? A man more experienc'd in theſe occaſions would have anſwer'd, that ſhe knew bet<g ref="char:EOLhyphen"/>ter than himſelf, ſince on her only depended his deſtiny; but 'tis ſo true, that the moſt Ingenuous a<g ref="char:EOLhyphen"/>mongſt young people, are but Aſſes in the beginnings of their firſt Loves, that our reſpectfull youth durſt not ſpeak one word to diſco<g ref="char:EOLhyphen"/>ver his Paſſion, but chang'd his Coun<g ref="char:EOLhyphen"/>tenance, and heſitated, as if he was troubled to find ſomething to ſay; the Dutcheſs pittying his little ex<g ref="char:EOLhyphen"/>perience, would give him time to come to himſelf, and fell to play<g ref="char:EOLhyphen"/>ing with the Flowers, as if ſhe had
+<pb n="41" facs="tcp:104060:25"/>forgot the Duke was there; till re<g ref="char:EOLhyphen"/>membring ſhe had heard <hi>Octavo</hi> was a great Traveller for a man of his Age, ſhe chang'd their converſa<g ref="char:EOLhyphen"/>tion to the ſubject of his Travels. In the mean time the Duke recol<g ref="char:EOLhyphen"/>lected himſelf; he wanted neither wit nor courage to undertake a great enterprize; and his timidity, which proceeded from Surprize or Tranſport, did but ſerve to quicken his wit. He told the Dutcheſs, he had ſeen nothing finer in his Voy<g ref="char:EOLhyphen"/>ages, than a Statue of the Sultaneſs <hi>Aſteria,</hi> the Miſtreſs of <hi>Solyman</hi> the ſecond, which the <hi>Venetian</hi> Ambaſſa<g ref="char:EOLhyphen"/>dor at <hi>Conſtantinople,</hi> (ſince Duke of <hi>Venice</hi>) had cauſed to be made for her. Madam <hi>de Valentinois,</hi> though ſhe was very curious, remembring not that ſhe had ever heard of this Statue, was ſurpriz'd that a thing he ſpoke ſo admirable, ſhould ſcape her curioſity, and earneſtly de<g ref="char:EOLhyphen"/>ſired the Duke to tell the par<g ref="char:EOLhyphen"/>cuticulars
+<pb n="42" facs="tcp:104060:26"/>of this Raritie; the wit<g ref="char:EOLhyphen"/>ty <hi>Italian</hi> was not ſilent to her de<g ref="char:EOLhyphen"/>mands, but continued the Fable with as much freedom of wit, as if his own memory, and not his inven<g ref="char:EOLhyphen"/>tion, had furniſh'd him with it, and begun his Diſcourſe in theſe terms.</p>
+            </div>
+            <div type="part">
+               <head>The Hiſtory of the Sulta<g ref="char:EOLhyphen"/>neſs <hi>Aſteria.</hi>
+               </head>
+               <p>MAdam, the Hiſtory which you command me to re<g ref="char:EOLhyphen"/>count is ſo ſecret, and ſeems ſo ſtrange, that the <hi>Venetian</hi> Ambaſſa<g ref="char:EOLhyphen"/>dor ſhould get entrance into the Seraglio of the Emperors Women, as if the Statue I told you of did not confirm it, and the people of whom I learnt it, were not as well known to me as my ſelf, I ſhould hardly believe their recital. <hi>Soly<g ref="char:EOLhyphen"/>man</hi> was one of the greateſt Princes in the World, he was generous and
+<pb n="43" facs="tcp:104060:26"/>magnificent, and ſeemed to be a Monument of the fidelity of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultaneſſes to the <hi>Ottoman</hi> Em<g ref="char:EOLhyphen"/>perors; but Love is an odd kind of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fellow, to whom every ordinary <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccident becomes formidable, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e will alwayes have Wonder and Romance in his intrigues; 'tis enough to make a man execrable, who finds an invincible neceſſity to Love him. The Duke ſpoke theſe words with ſo much earneſtneſs, that the Dutcheſs could not for<g ref="char:EOLhyphen"/>bear ſmiling to obſerve it; and making him remember he ſpoke to the Miſtreſs of a great King, Let us proceed to the Sultaneſs, my Lord Duke, ſaid ſhe, and leave the Sul<g ref="char:EOLhyphen"/>tan. He ſeemed to be ſomewhat confus'd at his digreſſion, and re<g ref="char:EOLhyphen"/>turning to his Story, with as much ſeriouſneſs as if it had been real, he continued, Madam, ſhe was ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovely, that whatever I can tell you of her beauty, is infinitely leſs than
+<pb n="44" facs="tcp:104060:27"/>thoſe Ideas I have of her in my own mind; ſhe had ſuch a Stature and Mine, as inſpir'd reſpect and admi<g ref="char:EOLhyphen"/>ration; her hair was a ſhining black which exceedingly ſet off the white<g ref="char:EOLhyphen"/>neſs of her skin, and her complexion bright and dazling; her mouth ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a thouſand charms that cannot b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> expreſs'd; and her fair eyes, which with the ſparkling of the black, ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the languiſhing of the blue, ſpok<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch a paſſionate language, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 'twas impoſſible to meet the glances and not underſtand them or without being tranſported with love for whatſoever they ſaid The pourtract of the Sultaneſs <hi>A<g ref="char:EOLhyphen"/>ſteria,</hi> ſo perfectly reſembled the Dutcheſs of <hi>Valentinois,</hi> and the Duke look'd upon her with <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much paſſion while he made it, that ſhe was like to interrupt him in that part of it; but her curioſity over coming her impatience, ſhe let him go on in this manner. The happy <hi>Ve<g ref="char:EOLhyphen"/>netian</hi>
+                  <pb n="45" facs="tcp:104060:27"/>ſaw her upon a day of the Sultans triumph; and though he ſelt his heart wounded by her at firſt ſight, yet he hop'd ſhe took notice of it. This perſon thought himſelf Inſenſible till that day, and took a pride to appear ſo; Fortune was his only Divinity, and Policy ſeemed to rule all his Actions: but Love never triumphs more, than <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the midſt of great difficulties. This dangerous Seraglio, which would have frighted any but a Lover, ſeemed not worthy our Ambaſſadors conſideration; the deſires to pleaſe, and the fear of not pleaſing, were the only things that merited his reflections, and having found the ſecret to diſcover his love, and that he was not hated, the eaſily found a way to be intro<g ref="char:EOLhyphen"/>duced to the fair <hi>Aſteria</hi>'s Apart<g ref="char:EOLhyphen"/>ment, having engaged an Eunuch who was privy to the adventure, and who diſguis'd him ſo well, that
+<pb n="46" facs="tcp:104060:28"/>he was not ſuſpected by any of the Guards. He found his beautiful Sultaneſs alone upon a bed of Flow<g ref="char:EOLhyphen"/>ers, and took her for the Goddeſs of Pleaſure; her fair eyes ſhew'd him nothing of cruelty, and th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> amorous <hi>Venetian's</hi> ſpoke the grea<g ref="char:EOLhyphen"/>teſt paſſion in the world. What ſhall I tell you further, Madam? i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhort, he was ſo tempted to ſteal <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> kiſs from her fair lips, that he had much ado to overcome his tran<g ref="char:EOLhyphen"/>ſport. Does this preſumption make you bluſh, Madam? (ſaid the Duke earneſtly looking upon the Dut<g ref="char:EOLhyphen"/>cheſs, who indeed bluſht) and if the incomparable Madam <hi>de Valen<g ref="char:EOLhyphen"/>tinois,</hi> had been the Sultaneſs <hi>Aſte<g ref="char:EOLhyphen"/>via,</hi> the Ambaſſador could never have been ſo favoured by Love as in this occaſion. That was accor<g ref="char:EOLhyphen"/>ding to the exceſs of his paſſion, and the Idea which the Lady con<g ref="char:EOLhyphen"/>ceiv'd of it, (reply'd the Dutcheſs, looking on the ground.) Ah
+<pb n="47" facs="tcp:104060:28"/>Madam, cry'd the Duke, (in riſing and ſtealing a kiſs from the Dut<g ref="char:EOLhyphen"/>cheſs) how well the <hi>Venetian</hi> under<g ref="char:EOLhyphen"/>ſtood Love, and the divine Sulta<g ref="char:EOLhyphen"/>neſs him? The fair <hi>Diana</hi> ſhew'd all neceſſary ſigns to make the Duke believe, he ſtole that kiſs againſt her will: But the cunning <hi>Farneſe</hi> eaſily perceiv'd the appear<g ref="char:EOLhyphen"/>ance from the truth, and continuing his Hiſtory as if it had not been in<g ref="char:EOLhyphen"/>terrupted, was going to make his pretended Ambaſſador ſo happy, that <hi>Octavo</hi> would have been glad to participate his good fortune; but the Dutcheſs perceiving this Hi<g ref="char:EOLhyphen"/>ſtory to be a Fable, after what had happen'd, Not ſo faſt, my Lord Duke, ſaid ſhe to him, I have heard enough of this Adventure for the firſt day, we may know the reſt in good time, but a Hiſtory of this nature requires more warning than I have leaſure to take now. Ah Madam, (reply'd the Duke, with an
+<pb n="48" facs="tcp:104060:29"/>unparallel'd fervency) thoſe who told me this ſtory, aſſur'd me that which made the <hi>Venetian</hi> ſo fortu<g ref="char:EOLhyphen"/>nate, was that he perſwaded the Sultaneſs they ought to make uſe of all occaſions who meet with them but ſeldom. I'le warrant you, (ſaid the Dutcheſs ſmiling) they who im<g ref="char:EOLhyphen"/>ploy the firſt opportunity ſo well, can eaſily find a ſecond. As the Dutcheſs ſpake theſe words, the King entred the Garden, follow'd by the <hi>Scotch</hi> Earl and the whole Court; the Ambaſſador did ſo many extravagant actions in Madam <hi>de Valentinois</hi> ſight, that the Duke thought it convenient to follow his example, and retir'd into his Clo<g ref="char:EOLhyphen"/>ſet ſo fill'd with Love and flat<g ref="char:EOLhyphen"/>tering hopes, that theſe inchanting thoughts imploy'd all the reſt of the day, and part of the following night.</p>
+            </div>
+            <div n="6" type="day">
+               <pb n="49" facs="tcp:104060:29"/>
+               <head>The Seventh Day.</head>
+               <p>'TIs ſo much the property of Love to inſpire young Lo<g ref="char:EOLhyphen"/>vers with Poetry, that our Duke could not be diſpenc'd with from this general Law; he made an <hi>Italian</hi> Madrigal, and repeated it the next day to the Queen, as a piece of Gallantry ſent him from his own Countrey; who being an <hi>Italian,</hi> and knowing all the delicacies of that tongue, lik'd it ſo well, that ſeveral <hi>French</hi> Poets were ambiti<g ref="char:EOLhyphen"/>ous to tranſlate it; and 'twas done ſo happily, that the King who loved Muſick commanding an Ayre ſhould be compoſed to theſe words, he and all the Court ſung no other Song.</p>
+               <pb n="50" facs="tcp:104060:30"/>
+               <lg>
+                  <head>Madrigal.</head>
+                  <l>
+                     <hi>FOr ev'ry Bleſſing double thanks we owe:</hi>
+                  </l>
+                  <l>
+                     <hi>First for the ſimple Gift we are in debt.</hi>
+                  </l>
+                  <l>
+                     <hi>Then from thoſe petty ſums, much larger grow;</hi>
+                  </l>
+                  <l>
+                     <hi>To th' intereſt of our joys no bounds are ſet.</hi>
+                  </l>
+                  <l>
+                     <hi>No Laws controll that Uſurie,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor will it ſtinted be,</hi>
+                  </l>
+                  <l>
+                     <hi>But addes, and ſtill without controll addes more;</hi>
+                  </l>
+                  <l>
+                     <hi>And then it doubles what it gave before.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>
+                     <hi>Though millions for my happineſs are due;</hi>
+                  </l>
+                  <l>
+                     <hi>That balmy Kiſs, which has my wounded ſoul</hi>
+                  </l>
+                  <l>
+                     <hi>But one apply'd half cur'd. They are but few,</hi>
+                  </l>
+                  <l>
+                     <hi>But very few, compar'd with that vaſt ſcroul,</hi>
+                  </l>
+                  <l>
+                     <hi>Which the bleſt Intereſt does fill,</hi>
+                  </l>
+                  <l>
+                     <hi>And with much more yet will.</hi>
+                  </l>
+                  <l>
+                     <hi>The dreams, the pleaſing thoughts, and extaſies;</hi>
+                  </l>
+                  <l>
+                     <hi>The ſweet remembrance of 't, has given, and give.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>
+                     <hi>Ah wou'd my Fair one grant another Boon!</hi>
+                  </l>
+                  <l>
+                     <hi>Or but the very ſame ſhe gave before;</hi>
+                  </l>
+                  <l>
+                     <hi>In ſpight of envious fate, which does ſo ſoon</hi>
+                  </l>
+                  <l>
+                     <hi>Deſtroy, e'en what ſhe gives; and makes us poor.</hi>
+                  </l>
+                  <l>
+                     <hi>By the ſame hand of Time, which brings</hi>
+                  </l>
+                  <l>
+                     <hi>The ſtore. I'le clip his wings,</hi>
+                  </l>
+                  <l>
+                     <hi>And make him ſtay; or I'le beg: if 'twont be,</hi>
+                  </l>
+                  <l>
+                     <hi>Then I my ſelf will giv't Eternitie:</hi>
+                  </l>
+                  <l>
+                     <hi>It ſhall for ever live, live in my memorie.</hi>
+                  </l>
+               </lg>
+               <pb n="51" facs="tcp:104060:30"/>
+               <lg>
+                  <head>4.</head>
+                  <l>
+                     <hi>Nature, in vain thou ſtriv'ſt to guard the heart!</hi>
+                  </l>
+                  <l>
+                     <hi>In vain's the prudent care that wall'd it in:</hi>
+                  </l>
+                  <l>
+                     <hi>(Though one would think it ſafe on ev'ry part)</hi>
+                  </l>
+                  <l>
+                     <hi>In vain, alas! thy care and coſt has been:</hi>
+                  </l>
+                  <l>
+                     <hi>Love has a paſſage found, he has;</hi>
+                  </l>
+                  <l>
+                     <hi>But t'other day it was,</hi>
+                  </l>
+                  <l>
+                     <hi>When to my grief he ſhew'd his powerfull art;</hi>
+                  </l>
+                  <l>
+                     <hi>He ſtorm'd my mouth, and by it gain'd my heart.</hi>
+                  </l>
+               </lg>
+               <p>The Tune that was made to this Madrigal prov'd ſo ſweet, that every body learnt it. But the plea<g ref="char:EOLhyphen"/>ſanteſt thing was, the Ambaſſador of <hi>Scotland</hi> delighting exceedingly in Muſick, (as generally all his Countreymen do) ſung it conti<g ref="char:EOLhyphen"/>nually. He had a good voice, and thinking to pleaſe the Dutcheſs with that quality, was the firſt that ſung to her the Madrigal upon the Kiſs; and quavering ſo long upon the paſſionate words, and with ſo much affectation, that the Dut<g ref="char:EOLhyphen"/>cheſs could not forbear laughing when ſhe obſerv'd it; he looking
+<pb n="52" facs="tcp:104060:31"/>with ſuch languiſhing eyes, when he ſung <hi>balmy Kiſs,</hi> and <hi>another Boon,</hi> made his error ſeem ſo pleaſing to Madam <hi>de Valentinois,</hi> that (not unlikely) the happy <hi>Farneſe</hi> ow'd to that circumſtance, the conſe<g ref="char:EOLhyphen"/>quence of this divertiſement. It may be ſome may think, that ac<g ref="char:EOLhyphen"/>cording to this Journal, Love makes great advances in a ſmall time; but we mean it not for a Regiſter of the dayes of our lives, but a Liſt of Amorous affairs; therefore you muſt think, that all the principal Actions were attended by ſuch circumſtances, as were ne<g ref="char:EOLhyphen"/>ceſſary to produce them.</p>
+            </div>
+            <div n="8" type="day">
+               <pb n="53" facs="tcp:104060:31"/>
+               <head>The Eighth Day.</head>
+               <p>THe Queen who loved not the Dutcheſs, having a private Alliance with <hi>Scotland,</hi> had leſs Friendſhip for the Duke of <hi>Parma,</hi> than the <hi>Scotch</hi> Earl, ſhe being then laying the Foundation of the Alliance between the Dolphin of <hi>France,</hi> and the Queen of <hi>Scotland;</hi> and this particular Intereſt, making her have one more General for the concerns of the Ambaſſador, ſhe was the firſt that obſerved his Love for Madam <hi>de Valentinois,</hi> and we may believe was not the laſt that ſtrengthned his Hopes. She lookt upon the fair <hi>Diana</hi>'s diſloyalty, as the only Rock on which the Kings Love could be wreckt, and thought the Earl a fit Perſon to make her fall into the Snare ſo of<g ref="char:EOLhyphen"/>ten laid; wherefore ſhe made all her Servants; whom ſhe thought
+<pb n="54" facs="tcp:104060:32"/>capable of ſerving her in this Deſign, flatter his Paſſion, and gave the Earl all opportunities ſhe could to ſee Madam <hi>de Valentinois;</hi> the Queens jealouſie made all fea<g ref="char:EOLhyphen"/>ſible, ſhe appearing ſo favourable to the Earls Amorous deſires, that he could not be accuſed of pre<g ref="char:EOLhyphen"/>ſumption, for cheriſhing his Hopes by her incouragement, and purſu<g ref="char:EOLhyphen"/>ing his Amour by her Aſſiſtance; but the fair <hi>Diana</hi> had no inclinati<g ref="char:EOLhyphen"/>on to him. And beſides that grand Obſtacle, ſhe was as politick as thoſe who undertook to inſnare her; ſhe knew as perfectly the Queens Intentions, as if ſhe had been of the Privy-Counſel of her Revenge, and reſolving to turn the miſchief prepared for herſelf upon her enemies, ſhe complained to the King of the Earls boldneſs, as an extreme jnjury to his Maje<g ref="char:EOLhyphen"/>ſties Honour: he was almoſt over<g ref="char:EOLhyphen"/>come with Joy to ſee his Miſtreſſes
+<pb n="55" facs="tcp:104060:32"/>Fidelity in ſo nice a buſineſs; ſhe drew a thouſand benefits from this Affair, and ſo powerfully ſtrength<g ref="char:EOLhyphen"/>ned his Love, that ſhe abſolutely gain'd his belief and aſſurance of her. The King lov'd the Dut<g ref="char:EOLhyphen"/>cheſs exceſſively, and being natu<g ref="char:EOLhyphen"/>rally jealous, adviſed with <hi>Mont<g ref="char:EOLhyphen"/>morency</hi> how to remedy this Am<g ref="char:EOLhyphen"/>baſſadors extravagance, without violating the Law of Nations. <hi>Montmorency</hi> commended His Ma<g ref="char:EOLhyphen"/>jeſties moderation, and deſiring to make the Duke <hi>Octavo</hi> neceſſary, mentioned him as a fit Perſon for the reducing the Earl to his proper Duty. The Duke was politick and witty, and whatever was done of his part, could not be ſuſpected to come from the King; for by the Queens advice (who endea<g ref="char:EOLhyphen"/>voured to hinder the Dutcheſs of all important friends) the unwary Earl had made ſeveral overtures of friendſhip with the Duke. There<g ref="char:EOLhyphen"/>fore
+<pb n="56" facs="tcp:104060:33"/>His Majeſty reſolv'd upon <hi>Montmorency</hi>'s advice. We ſee now the Duke Honour'd and made the Confident of the King his Rival, and intruſted to be reveng'd of one who begun to be ſo. You may imagine he fail'd not to uſe ſo fa<g ref="char:EOLhyphen"/>vourable an oportunity, but inſi<g ref="char:EOLhyphen"/>nuated himſelf into the Kings Fa<g ref="char:EOLhyphen"/>vour with ſo much art and ſucceſs, that this Monarch could not live without him; and adding the plea<g ref="char:EOLhyphen"/>ſures of the advancement of his concerns, to that of loving Madam <hi>de Valentinois</hi> without the Kings ſuſpition, he ſo well reconciled his Politicks with his Love, that he was equally happy in both, at leaſt we have Reaſon to think ſo; for 'tis certain, the King haſtned the raiſing of thoſe Troops he de<g ref="char:EOLhyphen"/>ſigned him: and there were ſome Verſes abroad about this time, which were thought to be his, by which we may judge he ſucceeded
+<pb n="57" facs="tcp:104060:33"/>as well in the art of pleaſing, as in that of negotiation. Some of theſe Verſes are put here for form ſake, but are left to your choice whether you will read them or not.</p>
+               <lg>
+                  <head>The Enjoyment.</head>
+                  <l>
+                     <hi>IN a cool ſhady Bow'r to lie,</hi>
+                  </l>
+                  <l>
+                     <hi>Where th' kind embracing of the lovíng bowes,</hi>
+                  </l>
+                  <l>
+                     <hi>'Gainſt ev'ry envious eye,</hi>
+                  </l>
+                  <l>
+                     <hi>A ſure defence allows:</hi>
+                  </l>
+                  <l>
+                     <hi>And modeſtly (what humane Lovers ought too) ſhews.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>
+                     <hi>There at his belov'd Miſtreſs feet to lie;</hi>
+                  </l>
+                  <l>
+                     <hi>View and conſider well</hi>
+                  </l>
+                  <l>
+                     <hi>The many charmes make up that mighty ſpell,</hi>
+                  </l>
+                  <l>
+                     <hi>(For great and many too they needs muſt be,</hi>
+                  </l>
+                  <l>
+                     <hi>Since man ſo much unwilling to obey we ſee;)</hi>
+                  </l>
+                  <l>
+                     <hi>That mighty ſpell whereby</hi>
+                  </l>
+                  <l>
+                     <hi>She firſt enſlav'd him, as yet free,</hi>
+                  </l>
+                  <l>
+                     <hi>And then for ever, bound him to her Tyrannie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>
+                     <hi>Then on a ſudden in her eyes to find,</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe gentle ſpirits move,</hi>
+                  </l>
+                  <l>
+                     <hi>Which are the Harbingers of Love,</hi>
+                  </l>
+                  <l>
+                     <hi>And take poſſeſſion of the mind.</hi>
+                  </l>
+                  <l>
+                     <hi>One ſooner cou'd deny</hi>
+                  </l>
+                  <l>
+                     <hi>A mighty Prince, than this kind language of the eye,</hi>
+                  </l>
+                  <l>
+                     <hi>When Beauty bids it on ber Errand flie.</hi>
+                  </l>
+               </lg>
+               <pb n="58" facs="tcp:104060:34"/>
+               <lg>
+                  <head>4.</head>
+                  <l>
+                     <hi>And then to feel what none cou'd e're expreſs;</hi>
+                  </l>
+                  <l>
+                     <hi>And none but Lovers ever gueſs:</hi>
+                  </l>
+                  <l>
+                     <hi>To feel the ſweet Infection ſpread,</hi>
+                  </l>
+                  <l>
+                     <hi>With a ſoft tickling pain,</hi>
+                  </l>
+                  <l>
+                     <hi>Through ev'ry vein,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſeize the heart, as well as head.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>5.</head>
+                  <l>
+                     <hi>Then when the body (like the nobler ſoul)</hi>
+                  </l>
+                  <l>
+                     <hi>Warm'd with a hot deſire,</hi>
+                  </l>
+                  <l>
+                     <hi>Becomes all fire</hi>
+                  </l>
+                  <l>
+                     <hi>Within her armes to lie, and cool</hi>
+                  </l>
+                  <l>
+                     <hi>Th' exceſſive heats now dang'rous grown;</hi>
+                  </l>
+                  <l>
+                     <hi>And from her panting breaſts, her dying eye,</hi>
+                  </l>
+                  <l>
+                     <hi>And melting ſighs which from her boſome flie,</hi>
+                  </l>
+                  <l>
+                     <hi>Take new flames, and more kindly than his own.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>6.</head>
+                  <l>
+                     <hi>How long, alas! the learned, grave, and wiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Have ſought with vain and fruitleſs toyl,</hi>
+                  </l>
+                  <l>
+                     <hi>The bleſſed ſeat of Paradiſe:</hi>
+                  </l>
+                  <l>
+                     <hi>Theſe are the joys which make that happy ſoyl:</hi>
+                  </l>
+                  <l>
+                     <hi>And that bleſt Bow'r the place,</hi>
+                  </l>
+                  <l>
+                     <hi>Which if my Miſtreſs grace,</hi>
+                  </l>
+                  <l>
+                     <hi>And but as kind as yeſterday ſhe was, will be,</hi>
+                  </l>
+                  <l>
+                     <hi>In ſpight of Fate each day is Paradiſe to me,</hi>
+                  </l>
+                  <l>
+                     <hi>As ſweet as that ſooth'd Mankinds harmleſs Infancy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="9" type="day">
+               <pb n="59" facs="tcp:104060:34"/>
+               <head>The Ninth Day.</head>
+               <p>THe Dutcheſs was building a Monaſtery ſome diſtance from <hi>Anet,</hi> which ſhe viſited often; the way to it lying near a part of the Forreſt, the Duke who knew how to Create pretexts, managed his time and Circumſtances ſo well, that ſeldom a day paſt wherein he ſaw not Madam <hi>de Valentinois</hi> in her walk to the Covent; ſhe went ordinarily without any other Com<g ref="char:EOLhyphen"/>pany than St. <hi>Brunes,</hi> and a little <hi>Polander,</hi> who knew not a word of <hi>French,</hi> nor underſtood any thing but his Miſtreſſes ſigns; ſo that he was imploy'd in all thoſe Myſterious Affairs, which required ſuch an ignorant Officer. One day when the King Hunted the wild Boar in the Forreſt, the Dutcheſs being gone her wonted Pilgrimage, <hi>Octa<g ref="char:EOLhyphen"/>vo,</hi> (whoſe new Favour obliged
+<pb n="60" facs="tcp:104060:35"/>him to be near his Majeſties Per<g ref="char:EOLhyphen"/>ſon) cunningly ſtole from the Company, to a place where ſhe enjoy'd the coolneſs of the ſhade; ſhe riſe at firſt ſight of him, and ſtriking him upon the Shoulder with a branch of Orange tree ſhe held in her hand, You're very bold my Lord Duke, (ſaid ſhe) thus to interrupt a Ladies Privacy; ev'n withdraw your ſelf, continued ſhe, (and flung a handfull of Orange Flowers in his Hair) the Adventure is more dangerous than you think for, ſhewing him a little Hillock ſhadowed by a Sloe-buſh in Bloſ<g ref="char:EOLhyphen"/>ſom. The Duke began this piece of Gallantry bravely, and taking her by the hand to conduct her to the place ſhe had ſhewn him, You have very little Charity for poor ſtrangers, (reply'd he in a drolling tone) thus to lie in Ambuſh for them upon the Kings High-way; who could ever have imagin'd this
+<pb n="61" facs="tcp:104060:35"/>attaque? go, Madam, you deſerve to be Chaſtiſed, and I hope to quit my ſelf of your Ambuſcado like a brave Fellow. Without queſtion a Diſcourſe ſo well begun, was carried on as pleaſantly; for although St. <hi>Brune</hi> went ſuch a di<g ref="char:EOLhyphen"/>ſtance from them that ſhe could not hear their Diſcourſe, the ſub<g ref="char:EOLhyphen"/>ſtance of the Entertainment may be gueſs'd by the Verſes made in that ſolitude.</p>
+               <lg>
+                  <head>Madrigal 2.</head>
+                  <l>
+                     <hi>HArk how the murm'ring Woods, my Fair one, do complain,</hi>
+                  </l>
+                  <l>
+                     <hi>Since you and I the other day they ſpy'd;</hi>
+                  </l>
+                  <l>
+                     <hi>That unkind Nature has to them deny'd:</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe ſweeter pleaſures which by Love we gain.</hi>
+                  </l>
+                  <l>
+                     <hi>It vexes 'um to ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>Their glorious Progenie,</hi>
+                  </l>
+                  <l>
+                     <hi>So trim and gay adorn the ſmiling Field,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet not th' remembrance of one ſweet pleaſure yield.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>
+                     <hi>Whilſt ſpend-thrift like ſhe ſo profuſely waſts,</hi>
+                  </l>
+                  <l>
+                     <hi>Such mighty ſums on her dear Fav'rite Man;</hi>
+                  </l>
+                  <l>
+                     <hi>That e'en whilſt he his Duty payes, he taſts</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe pleaſures which they never knew; nor can</hi>
+                  </l>
+                  <pb n="62" facs="tcp:104060:36"/>
+                  <l>
+                     <hi>Devouring Time deſtroy,</hi>
+                  </l>
+                  <l>
+                     <hi>The ſweets which we enjoy.</hi>
+                  </l>
+                  <l>
+                     <hi>When age depraves our taſte; in a Childe we</hi>
+                  </l>
+                  <l>
+                     <hi>Then enjoy, and in a Grand-childe chew o're our Leacherie.</hi>
+                  </l>
+                  <l>Clor. <hi>Thus the ſhort pleaſure we enjoy,</hi>
+                  </l>
+                  <l>
+                     <hi>In getting of one lovely Boy,</hi>
+                  </l>
+                  <l>
+                     <hi>Still multiplies it ſelf, and we</hi>
+                  </l>
+                  <l>
+                     <hi>Enjoy it ſtill in our posteritie.</hi>
+                  </l>
+                  <l>
+                     <hi>For when he mates, we cry,</hi>
+                  </l>
+                  <l>
+                     <hi>Ah ſo did</hi> Phillis <hi>once, and I.</hi>
+                  </l>
+                  <l>
+                     <hi>Ah ſo,</hi> &amp;c.</l>
+               </lg>
+               <p>If the Duke of <hi>Parma</hi> had con<g ref="char:EOLhyphen"/>tributed only the ſubject to this Song, yet he writ it with his own hand, and being 'twas with a Pencil in a Table-book, it not being ſo eaſie to make lettters upon Ivory as upon Paper, his were ſo diffi<g ref="char:EOLhyphen"/>cult to be known, that the Dut<g ref="char:EOLhyphen"/>cheſs thought it needleſs to wipe them out, but put them in her pocket, and return'd to the Caſtle, much ſatisfied with her happy en<g ref="char:EOLhyphen"/>counter. The Duke follow'd the Hunters, though he could hardly overtake them; yet when he found them, was outwardly ſorry
+<pb n="63" facs="tcp:104060:36"/>for the loſing their Company; <hi>Montmorency</hi> comforted him as well as he could, telling him, the King was very much concern'd for his abſence. The Duke having a mind for to droll, Had I been in Love, (ſaid he, pleaſantly) I need not complain of being ſo long alone; but I confeſs ſolitude is very Melancholy and dull to a man that's Inſenſible: You ſee, (an<g ref="char:EOLhyphen"/>ſwer'd the Ambaſſador) that ſome<g ref="char:EOLhyphen"/>times Love is very uſefull; I begin to think ſo too, (reply'd the Duke, ſmiling) and two or three ſuch ac<g ref="char:EOLhyphen"/>cidents as I met with to day, will make me hate my Indifference: Theſe Diſcourſes continued till they came to the Caſtle, where the remaining part of the day was ſpent in telling the ſucceſs of their Hunting, which having been ſome<g ref="char:EOLhyphen"/>what violent, they went early to bed, and eas'd themſelves of the la<g ref="char:EOLhyphen"/>bours of the day.</p>
+            </div>
+            <div n="10" type="day">
+               <pb n="64" facs="tcp:104060:37"/>
+               <head>The Tenth Day.</head>
+               <p>THe next day the Court went a Fiſhing, and the Ladies were in a dreſs ſuitable to the Recreati<g ref="char:EOLhyphen"/>on; the King ſhew'd his magnifi<g ref="char:EOLhyphen"/>cence in the expenſiveneſs of the Banquets, and the rich adorning of the Boats where they were ſer<g ref="char:EOLhyphen"/>ved. After the return from Fiſh<g ref="char:EOLhyphen"/>ing, there was an <hi>Italian</hi> Comedy at the Queens apartment, and the Dutcheſs having ſome private rea<g ref="char:EOLhyphen"/>ſons to love that Language, was one of the firſt at that divertiſe<g ref="char:EOLhyphen"/>ment. The <hi>Scotch</hi> Earl having the opportunity to place himſelf be<g ref="char:EOLhyphen"/>hind her chair, his Paſſion being always the Miſtreſs of his Politicks, reſolv'd to give her ſome new mark of that Love he could not over<g ref="char:EOLhyphen"/>come; Madam <hi>de Valentinois</hi> lift<g ref="char:EOLhyphen"/>ing up her hand to put ſomething of her dreſs in order, the Earl ſpy'd
+<pb n="65" facs="tcp:104060:37"/>a Ribband at the entrance of her Pocket, which he thought was her Table-book, ſoftly drew it out, whilſt ſhe was looking another way, and thinking to make ſome advan<g ref="char:EOLhyphen"/>tage of that adventure, went to write ſome Gallantry in it; but caſting his eyes upon that of the foregoing day, was ſurprized to find that Character in the Dutcheſſes Table<g ref="char:EOLhyphen"/>book, and the reading it raiſed in him ſo great a Jealouſie, as made him fetch a deep ſigh: the fair <hi>Di<g ref="char:EOLhyphen"/>ana</hi> hearing it, lookt towards him, and perceiving her Table-book, nimbly ſnach'd it away, letting him ſee by her angry looks, that ſhe was diſpleas'd at this preſumption; he lookt earneſtly upon her when he ſaw her anger, and fetching ano<g ref="char:EOLhyphen"/>ther ſigh as deep as the former, Ah! Madam, ſaid he, what have I ſeen? At theſe words he left the Room: the Dutcheſs perceiving by them he had read the Madrigal,
+<pb n="66" facs="tcp:104060:38"/>reſolv'd to prevent the evil theſe Verſes might cauſe if they were known; ſhe read them firſt, and faining ſhe believ'd the Ambaſſa<g ref="char:EOLhyphen"/>dor writ them, complained to the King of this affront, and told him, with all the appearances of a real grief, that ſhe was very unhappy in being an object for the inſolen<g ref="char:EOLhyphen"/>cies of ſtrangers, becauſe ſhe was loyal to his Love. This way of changing the buſineſs, made the King ſo angry with the Earl, that if the private Treaty of the Marri<g ref="char:EOLhyphen"/>age which he carried on, had not caus'd the Queen to raiſe all her Intereſt to ſupport him, the King had ſent him word he might return. He Proteſted, and 'twas true, that he never ſo much as thought to write thoſe Verſes, and that he had never ſeen them, except in the Dutcheſſes Table-book; but cir<g ref="char:EOLhyphen"/>cumſtances being againſt him, and Madam <hi>de Valentinois</hi> having rub'd
+<pb n="67" facs="tcp:104060:38"/>them out as ſoon as the King had ſeen them, with a pretence of be<g ref="char:EOLhyphen"/>ing aſham'd of them, 'twas impoſ<g ref="char:EOLhyphen"/>ſible to know the Character, ſo that the Earl was tax'd with an Ini<g ref="char:EOLhyphen"/>quity he was nothing guilty of.</p>
+            </div>
+            <div n="11" type="day">
+               <head>The Eleventh Day.</head>
+               <p>LOvers cannot live long in good Intelligence, the exceſs of Love makes them capricious, the moſt inflam'd hearts being the moſt inclinable to anger; and we had ra<g ref="char:EOLhyphen"/>ther betray our own happineſs, than to Love alwayes without claſhing: The Duke and Dutcheſs on the ſudden look'd not ſo kindly upon each other as they were uſed to do, and <hi>Octavo</hi> being highly diſpleas'd with her diſdainfull uſage, was al<g ref="char:EOLhyphen"/>moſt reſolv'd to ſacrifice his Inte<g ref="char:EOLhyphen"/>reſt to his Love, and return into
+<pb n="68" facs="tcp:104060:39"/>
+                  <hi>Italy.</hi> Thoſe who in that time heard of <hi>Farneſe</hi>'s diſcontent, judged it caus'd by <hi>Montmorency</hi>'s propoſing of him, to marry the young Princeſs <hi>Diana,</hi> Madam <hi>de Valentinois</hi> Daughter by the King, (to which they ſay he could never be perſwaded;) but 'tis not like the Dutcheſs, who knew very well the reaſons he had to ſcruple that Allyance, could be diſpleas'd with him for oppoſing it; and having ſince in his ſtead given her his Bro<g ref="char:EOLhyphen"/>ther <hi>Horatio,</hi> ſhe had no reaſon to be diſſatisfi'd upon that ſcore. 'Twas Love only could ſeparate hearts ſo firmly united, he only caus'd their diſagreement, and he alone muſt re<g ref="char:EOLhyphen"/>concile it. The fair <hi>Diana</hi> tax'd the Duke with not being tender enough in the effects of his paſſion, and for retaining too ſoveraign a power over the faculties of his ſoul, in a time when pleaſure ſhould ſet free all its functions.</p>
+               <pb n="69" facs="tcp:104060:39"/>
+               <lg>
+                  <l>
+                     <hi>ONe Ev'ning at a happy Lover lay,</hi>
+                  </l>
+                  <l>
+                     <hi>In his dear Ladies boſome at a bay,</hi>
+                  </l>
+                  <l>
+                     <hi>Finding her Am'rous flames begin to dye;</hi>
+                  </l>
+                  <l>
+                     <hi>And a thick miſt o're ſpread her twinckling eye:</hi>
+                  </l>
+                  <l>
+                     <hi>'Muſt theſe ſweet Pleaſures too, enrag'd eryes he,</hi>
+                  </l>
+                  <l>
+                     <hi>'Muſt theſe thus fleeting, and thus ſhort-liv'd be?</hi>
+                  </l>
+                  <l>
+                     <hi>'Uſe all thoſe pow'rfull Names which Love inſpires,</hi>
+                  </l>
+                  <l>
+                     <hi>'And with thy breath rowſe theſe expiring fires.</hi>
+                  </l>
+                  <l>
+                     <hi>Then leſt he wanting to's own Laws ſhou'd prove:</hi>
+                  </l>
+                  <l>
+                     <hi>'My dear, he cryes, my pretty rogue, my Love:</hi>
+                  </l>
+                  <l>
+                     <hi>With thouſands more that witty Loves invent;</hi>
+                  </l>
+                  <l>
+                     <hi>Which, though the ſottiſh world (&amp; what they meant)</hi>
+                  </l>
+                  <l>
+                     <hi>Ne're knew: Yet well by Lovers known they be,</hi>
+                  </l>
+                  <l>
+                     <hi>Who underſtand Love's wond'rous myſterie:</hi>
+                  </l>
+                  <l>
+                     <hi>And feel the pow'r which in their charm do lye;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſ e the mighty wonders wrought thereby.</hi>
+                  </l>
+                  <l>
+                     <hi>Then with a dying eye, ſpeaking diſdain,</hi>
+                  </l>
+                  <l>
+                     <hi>With Love and Anger mixt, thus did complain</hi>
+                  </l>
+                  <l>
+                     <hi>The Fair one. 'Ingratefull! thee now I hate:</hi>
+                  </l>
+                  <l>
+                     <hi>'Haſt thou yet ſtrength to waſte in idle prate;</hi>
+                  </l>
+                  <l>
+                     <hi>'And whilſt I in thy armes thus drooping lye,</hi>
+                  </l>
+                  <l>
+                     <hi>'Thou Love or courage wantſt with me to dye.</hi>
+                  </l>
+               </lg>
+               <p>Theſe are all the Memoirs are left of that great controverſie, which divided the opinions of the greateſt Wits in <hi>Europe,</hi> and which made the Pope reſolve to joyn with the Duke of <hi>Milan,</hi> againſt the Duke of <hi>Parma;</hi> which he dar'd
+<pb n="70" facs="tcp:104060:40"/>not have done, had he not hoped the unkindneſs grown between him and Madam <hi>de Valentinois,</hi> would cauſe the King of <hi>France</hi> to with<g ref="char:EOLhyphen"/>draw his aſſiſtance. But 'tis not in this affair only, that things have been attributed to the Policy and Intereſt of Princes, which were wholly caus'd by Love. <hi>Octavo</hi>'s Crime will ſeem but a ſmall fault, to thoſe who are commonly call'd the men of Reaſon; but Love is govern'd by his own Laws, and according to them, this Lover was exceeding guilty. Therefore the Dutcheſs could no more be per<g ref="char:EOLhyphen"/>ſwaded to pardon him, than he to confeſs himſelf in a fault: witty <hi>Saint Brune</hi> did eminent ſervice in the appeaſing this diſorder; ſhe entreated, and begg'd; but the buſineſs being matter of Fact, the Dukes Reaſons muſt lye in the proof; and 'tis thought the skilfull <hi>Italian</hi> perſwaded <hi>Saint Brune</hi> by
+<pb n="71" facs="tcp:104060:40"/>her own experience, that ſhe might with more facility convince her Miſtreſs; 'tis further believ'd, that this Knowledge ſtrengthned her Eloquence, and not perceiving the Dukes ſilence material in that affair, it help'd her to inform the Dutcheſs, that it was no Crime not to obſerve her opinions: however 'twas, our quarelling Lovers grew Friends again. But as theſe picques are generally the wrack of the Lo<g ref="char:EOLhyphen"/>vers Prudence, the Duke could not hide his grief, ſo well as he had con<g ref="char:EOLhyphen"/>ceal'd his happineſs; the ordinary Judgements attributed his Melan<g ref="char:EOLhyphen"/>choly, to the Popes Allyance with <hi>Gonſagues,</hi> but the <hi>Scotch</hi> Earl diſ<g ref="char:EOLhyphen"/>cern'd what the Court could not. He had a faint remembrance of the Letters in the Madrigal, and find<g ref="char:EOLhyphen"/>ing them to have ſome likeneſs with <hi>Farneſs</hi>'s writing, and adding this ſuſpicion to ſeveral actions of the Duke in the time of this difference
+<pb n="72" facs="tcp:104060:41"/>with the fair <hi>Diana,</hi> he compar'd the melancholy of that time, with the gayety of this, and weighing in his mind the Dukes advice con<g ref="char:EOLhyphen"/>cerning his conduct, he took that for the effects of his paſſion, which was only in purſuance of the Kings orders; and no longer doubted that <hi>Octavo</hi> was his Rival, and what was more, beloved. So that the Friendſhip he had feign'd the Earl, was a new motive to augment his fury, which grew to an unparallel'd exceſs. He diſcover'd his Jealouſie to the Queen, as he had alſo done his Love; this Princeſs was ex<g ref="char:EOLhyphen"/>tremely glad of it, confirm'd it, and advis'd him wholly to imploy him<g ref="char:EOLhyphen"/>ſelf, in the interception of ſome Letter, which might evidently clear their ſuſpicion.</p>
+            </div>
+            <div n="12" type="day">
+               <pb n="73" facs="tcp:104060:41"/>
+               <head>The Twelfth Day.</head>
+               <p>THere was no great difficulty to accompliſh their deſign, the fidelity of Domeſticks is too weak of it ſelf, to reſiſt the power of an angry Queen, and a man of Quality in Love, and liberall: the Earl corrupted that ſervant of the Dukes, who uſed to carry his Letters to the Dutcheſs, and bring him back her anſwers: He knew of him, that the little <hi>Polander</hi> al<g ref="char:EOLhyphen"/>ways left them in a hole, which was in the Pedeſtal of a Marble Mer<g ref="char:EOLhyphen"/>cury, in a croſs-way of the Forreſt, whither the Duke ſent him for them, and made him carry the anſwers. You may eaſily think the Earl fail'd not to be there the next morning, being informed by the bribed ſervant of the time he ſhould carry his Maſters Letters, where he found this in <hi>Italian:</hi> the
+<pb n="74" facs="tcp:104060:42"/>Earl underſtood not the Language well enough to know the meaning exactly, but the Queen was his interpreter, and explain'd it to him in theſe terms.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>HOw I love your anger, for to it I own all my happineſs. Fa<g ref="char:EOLhyphen"/>vour me with another Picque, I beſeech you Madam, for you have more reaſon than you imagine, ſince I am yet alive, and our laſt converſa<g ref="char:EOLhyphen"/>tion has not yet made me Loves Mar<g ref="char:EOLhyphen"/>tyr. Puniſh this procedure, un<g ref="char:EOLhyphen"/>worthy the exceſs of my Paſsion, and that you may find a puniſh<g ref="char:EOLhyphen"/>ment equal to my crime, forbid me theſe raviſhing joys when I ſhall ſee you again.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>This Letter produced ſuch a mix<g ref="char:EOLhyphen"/>ture of joy and grief, in the mind of the jealous Ambaſſador, as was like to have made him loſe his wits. He would have run to the King,
+<pb n="75" facs="tcp:104060:42"/>and by ſhewing him <hi>Octavo</hi>'s trea<g ref="char:EOLhyphen"/>chery, revenge himſelf of the Dut<g ref="char:EOLhyphen"/>cheſs, by the loſs of her Lover; but the Queen being leſs tranſ<g ref="char:EOLhyphen"/>ported, and conſequently more prudent, was of opinion to have a Letter of Madam <hi>de Valentinois</hi>'s own writing, before they under<g ref="char:EOLhyphen"/>took her ruine: The fair <hi>Diana</hi> had ſo prodigious a wit, and the King ſo much poſſeſt to her advan<g ref="char:EOLhyphen"/>tage, that ſhe had withdrawn her<g ref="char:EOLhyphen"/>ſelf from two or three as dangerous plots as this. And the Queen <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earing her cunning might diſap<g ref="char:EOLhyphen"/>point them, would not hazard any thing but what might be effectual. Therefore ſhe only took a coppy of the Dukes Letter, and ſealing it up again as well as ſhe could, made the Earl carry it to the place from whence he brought it. He had hardly obey'd her commands, when the <hi>Polander</hi> came to quit himſelf of his ordinary commiſſi<g ref="char:EOLhyphen"/>on;
+<pb n="76" facs="tcp:104060:43"/>and ſome hours after, during which you may imagine the Poſt was watch'd, he brought this an<g ref="char:EOLhyphen"/>ſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>I Have yet a quarrel with you, if you love them; for I reſolve to gratifie your deſire. What made you write me a Letter ſo paſsionate and full of tranſport, (fond Lover as you are) thus to ſurpaſs all mine ſo that I can no longer boaſt of writing kinder things than you if it had been a Letter of five or ſix pages, I could be better ſatisfi'd but in five or ſix lines, to ſay all the ſweeteſt things love can inſpire. Well; I know how to be revenge for this injury. And like another</hi> Artemiſia, <hi>I won't make an end of dreſsing my ſelf, before I make you confeſs, I love you a thouſand times better than you do me. You may come with aſſurance to our rendezvouz; (for I am not capable
+<pb n="77" facs="tcp:104060:43"/>of deceit) there you ſhall find me without other company than St.</hi> Brune.</p>
+                  </body>
+               </floatingText>
+               <p>The jealous Earl found his jea<g ref="char:EOLhyphen"/>louſie very much augmented, when he had read this Letter; and accor<g ref="char:EOLhyphen"/>ding to the conduct of all Lovers, felt an extreme Joy to ſee that there, which for his life he would not have found. He ran to the Queen, agitated by two or three ſeveral paſſions, crying, Victory, Victory, at her Cloſet door, and ſhewing her the Letter he had intercepted; ſhe felt a purer joy to ſee it than the Earls was, immediately reſolving to follow the ſucceſs ſhe hop'd from it, ſending for an Officer of the Kings Guards, who was abſolutely at her devotion, whom ſhe com<g ref="char:EOLhyphen"/>manded ſo to order it, that the King might ſee the Letter, and not imagine there was any deſign to ſhew it him. For this intent
+<pb n="78" facs="tcp:104060:44"/>'twas agreed amongſt them, the Officer ſhould pretend it dropt ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Duke <hi>Octavo</hi>'s pocket, and preſenting it him again in the Kings preſence, ſhould let his Majeſty ſee the hand. The Queen knew his humour well enough, to be aſſured, that if he ſaw a part of it, he would read it all; and as that jealouſie is moſt violent that is gotten by chance, ſo by theſe means ſhe hop'd to undoe the Duke and Dutcheſs, without being ſuſpected to be the Au<g ref="char:EOLhyphen"/>thor of their ruine: while theſe things were tranſacting, the Duke was in his Chamber, as much wondring at the cauſe of the Dut<g ref="char:EOLhyphen"/>cheſſes ſilence, as ſhe at his neglect. He was informed by his ſervant, whom he ordered to fetch his Letters, there was none in the uſual place: And not knowing the true reaſon, he thought of twenty falſe ones, which excee<g ref="char:EOLhyphen"/>dingly
+<pb n="79" facs="tcp:104060:44"/>perplext him. On the other ſide, the fair <hi>Diana</hi> being told her Lover was in the Kings bed-Chamber, and intended to go with him a Hunting that day, was ſo enraged at his proceedings, that immediately ſhe repented all her kindneſs to the Duke, calling him ungrateful, inſenſible, nay Tray<g ref="char:EOLhyphen"/>tor it ſelf; and to Puniſh him for all her former indulgencies, ſeigned herſelf not well, and would not ſee him at his return: this niceneſs in<g ref="char:EOLhyphen"/>creas'd <hi>Octavo</hi>'s ſuſpitions, and made him accuſe the Dutcheſs, of the ſame inconſtancy ſhe thought him guilty.</p>
+            </div>
+            <div n="13" type="day">
+               <pb n="80" facs="tcp:104060:45"/>
+               <head>The Thirteenth Day.</head>
+               <p>THe next day they were both in the Queens Lodgings, and look'd very coldly upon each other, ſpeaking nothing of their diſcon<g ref="char:EOLhyphen"/>tent. <hi>Saint Brune</hi> was imploy'd again to interpret the buſineſs; which was ſoon done on the Dukes part, for when he had proteſted he ſaw no Letter, he was no longer faulty. They call'd the little <hi>Po<g ref="char:EOLhyphen"/>lander,</hi> who after his manner aſſur'd them he put the Letter in the uſual place; the Dukes Servant ſaid, he found none there, and backing the aſſurance of his fidelity with all the Oathes he could think on, put out two Lovers in a great perplexity. Madam <hi>de Valentinois</hi> knew ſhe had written an Aſſignation very kind and paſſionate, the Duke was ſure he receiv'd none, ſo that they could not ſuſpect any body but the <hi>Scotch</hi>
+                  <pb n="81" facs="tcp:104060:45"/>Ambaſſador; and the Dutcheſs was ſo vex'd to find her favours left to the diſcretion of a man of his hu<g ref="char:EOLhyphen"/>mour, that ſhe could not be ſatis<g ref="char:EOLhyphen"/>fi'd. If to intereſt him in the ſame intrigue, would have charm'd his tongue, ſhe had ſoon reſolv'd upon it; but ſhe thought not this way ſo certain as 'twas eaſie, knowing thoſe favours ſeldom teach Gallants the faculty of ſilence. <hi>Diana</hi> ha<g ref="char:EOLhyphen"/>ving a thouſand thoughts in her head, and not knowing which to chuſe, put the Duke in an uncon<g ref="char:EOLhyphen"/>ceivable deſpair; though he needed not have been ſo dejected, Love taking the care of their preſerva<g ref="char:EOLhyphen"/>tion, without their knowledge: for whilſt the Dutcheſs thought her ſelf Ruin'd, and the Queen Re<g ref="char:EOLhyphen"/>veng'd, the Officer that ſhould have been the Miniſter of her fury, was kill'd at the Caſtle-gates: he had a Quarrel with one of his Camerades, which could not be
+<pb n="82" facs="tcp:104060:46"/>determin'd but by their Swords. Fate would have the lot fall upon the Queens Agent; and ſince the Marqueſs of <hi>Jarnac</hi>'s diſpute, Duels were ſeverely forbidden, which made the Friends of the deceaſed, carry him two miles from <hi>Anet,</hi> where in a pit they cover'd him with Chalk, and with him the Let<g ref="char:EOLhyphen"/>ters which caus's ſo much trouble, and were to produce ſuch wonders. You may eaſily think what effect this had upon the Queen and the Earl; they abhorr'd their former precaution, and ever and anon twitted each other with the loſs of that advantage, being like to have parted Intereſts, when they had moſt need of a ſtricter Union. The Dutcheſs knew not yet what cauſe ſhe had to thank Love for this Murther, ſo neceſſary to her ſafety, but ſtill look'd upon the Earl as the undertaker of her ruine, which robb'd her of all quiet; ſome
+<pb n="83" facs="tcp:104060:46"/>nipping words he often let fall, con<g ref="char:EOLhyphen"/>firm'd her opinion, augmented her fears, and made her change counte<g ref="char:EOLhyphen"/>nance whenever he began to ſpeak. One day above the reſt, when the Dutcheſs follow'd the Queen, who walk'd in the Caſtle Garden with the whole Court, a ſudden ſhowr made them take ſhelter in a Gallery that lay between the Apartments of the Duke <hi>Farneſe</hi> and <hi>Montmorency;</hi> the Pictures in it being admirable, and repreſenting ſeveral effects of the Gods Juſtice upon the wicked, were the ſubject of their diſcourſe: One of them ſhew'd the torment of <hi>Ixion,</hi> for letting his deſires aſpire to the Wife of <hi>Jupiter;</hi> another, the burning of <hi>Semele,</hi> and this the Queen lik'd beſt: but the Duke of <hi>Parma</hi> was the moſt pleas'd with the adventure of <hi>Diana</hi> and <hi>Actaeon;</hi> the Goddeſs was drawn ſo lovely, the Landskip ſo natural, and the conformity between the Names of
+<pb n="84" facs="tcp:104060:47"/>
+                  <hi>Diana</hi> and Madam <hi>de Valentinois</hi> made him eſteem it ſo much, that he could not grow weary of com<g ref="char:EOLhyphen"/>mending it. But when from the praiſe of the Painter, they came to the ſtory of the Picture, For my part, (ſaid he, pleaſantly) I muſt beg pardon of the Ladies ſeverity, if I eſteem not this ſo great an example of it as they believe; I think it but equity to puniſh a Lover for undertaking an enter<g ref="char:EOLhyphen"/>priſe contrary to his Miſtreſſes commands, (for 'tis juſt diſobedi<g ref="char:EOLhyphen"/>ence ſhould have its due correcti<g ref="char:EOLhyphen"/>on;) but to imagine it unlawfull to take the advantage of chance, or that a man may not enjoy the Careſſes of Fortune, when ſhe flings her ſelf in his armes, is paſt my underſtanding. This diſcourſe put<g ref="char:EOLhyphen"/>ting the Dutcheſs in mind of the Kiſs in the Grotto, and ſeveral other occurrences, where he had practic'd what he preach'd, made
+<pb n="85" facs="tcp:104060:47"/>her ſmile, which paſs'd not unob<g ref="char:EOLhyphen"/>ſerv'd. But pray (reply'd a grave auſtere Lady of the Court) what interpretation do you make of ſo known a ſtory, and ſo well re<g ref="char:EOLhyphen"/>ceiv'd, if not that 'twas the effect of <hi>Diana</hi>'s modeſty, and the puniſh<g ref="char:EOLhyphen"/>ment of <hi>Actaeon</hi>'s preſumption? I conceive (ſaid the Duke, conti<g ref="char:EOLhyphen"/>nuing his raillery) that <hi>Diana</hi> pu<g ref="char:EOLhyphen"/>niſh'd this Hunter, becauſe he pur<g ref="char:EOLhyphen"/>ſued not his good fortune; very like the Goddeſs would have been well enough pleas'd <hi>Actaeon</hi> ſaw her na<g ref="char:EOLhyphen"/>ked, had his tranſport at the ſight of her beauty, effaied his crime againſt her modeſty. This is a new Moral to the Fable, (anſwer'd the Queen, ſmiling) and if you can draw ſuch from all the fictions of the An<g ref="char:EOLhyphen"/>tients, they have left us a terrible doctrine. Madam, (reply'd <hi>Octavo</hi>) the Antients were ſo wiſe, that one of their thoughts may find matter for five or ſix of ours. Kings have
+<pb n="86" facs="tcp:104060:48"/>an example in this, of the reſpect we ought to have for the pleaſures of Princes, where we ſhould take no greater ſhare then pleaſes them to allow us. Your Majeſty, who is ſo modeſt and ſevere, may ſee an example of ſeverity and modeſty. A Politician may find a Maxim, not to let them live long, who know more of our affairs than we are willing they ſhould; but a man of my age, makes no ſuch ſerious reflections, nor looks for any thing but Amorous Morals. You make very curious diſtinctions for one that's Inſenſible, (ſaid the Princeſs <hi>Claudia</hi>) and Nature muſt needs be unjuſt, if ſhe hath joyn'd a mind ſo able to underſtand Love, with a heart ſo uncapable to receive it. Ah Madam, (added the Earl) per<g ref="char:EOLhyphen"/>haps the Duke is not ſo Inſenſible as he appears to be, a ſeeming Indifference being many times the mask of a great paſſion: And if
+<pb n="87" facs="tcp:104060:48"/>Madam <hi>de Valentinois</hi> would ſpeak her obſervations of the Dukes heart, to the Queen, I dare be confident his diſguiſe cannot eſcape her quick-ſighted Judgement. This diſcourſe touched the Dutcheſs ſo ſenſibly, that ſhe could hardly con<g ref="char:EOLhyphen"/>ceal her diſturbance; but having a great power over her ſelf, ſhe was ſoon compos'd, and told the Earl in an angry imperious tone, I am but a bad Voucher of what you de<g ref="char:EOLhyphen"/>ſire, and as I believe it injuſtice to look into others ſecrets without their permiſſion, ſo I think their curioſity deteſtable who are ſo in<g ref="char:EOLhyphen"/>quiſitive. If the Letters he inter<g ref="char:EOLhyphen"/>cepted had been ſtill in his hands, our Ambaſſador had not ſtood mute in ſo provoking an opportunity; but the impoſſibility of proving his malice, hindred his ſaying any more of it, but ſigh'd for vexation, at the bad ſucceſs of his enterpriſes. The Queen who loved not to loſe ſighs
+<pb n="88" facs="tcp:104060:49"/>ſo idly, like a prudent woman took no notice of their diſcourſe: Our Lovers had let fall a thouſand marks of the private correſpondence that paſs'd between them, which they obſerv'd not; yet the politick Queen, thought they might be uſefull to her in time. She com<g ref="char:EOLhyphen"/>manded the illuſtrious <hi>Marot</hi> to write in Verſe the ſtory of <hi>Diana</hi> and <hi>Actaeon,</hi> according to the Duke of <hi>Parma</hi>'s opinion. This Poet being greatly obliged to her, and finding the ſubject very pleaſing, made this following Fable.</p>
+               <lg>
+                  <head>The Fable.</head>
+                  <l>
+                     <hi>IN the firſt dawning of the Worlds great day,</hi>
+                  </l>
+                  <l>
+                     <hi>When th' Infant Sun his tedious race begun;</hi>
+                  </l>
+                  <l>
+                     <hi>Which he five thouſand years, they ſay, has run:</hi>
+                  </l>
+                  <l>
+                     <hi>And twice five thouſand more he may,</hi>
+                  </l>
+                  <l>
+                     <hi>For ought I know, ere it be done.</hi>
+                  </l>
+                  <l>
+                     <hi>'Twas in thoſe early dayes, when all the way</hi>
+                  </l>
+                  <l>
+                     <hi>From Heav'n to Earth, more bright, and purer was,</hi>
+                  </l>
+                  <l>
+                     <hi>Than that we now the Milkie call; &amp; boaſts it ſelf ſo gay.</hi>
+                  </l>
+                  <l>
+                     <hi>Then with unſtained ſeet the Gods might paſs;</hi>
+                  </l>
+                  <pb n="89" facs="tcp:104060:49"/>
+                  <l>
+                     <hi>As yet the road was free,</hi>
+                  </l>
+                  <l>
+                     <hi>From all thoſe mirie clouds, and dirty miſts we ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>Which from our ſins do come;</hi>
+                  </l>
+                  <l>
+                     <hi>Some from Drunkenneſs, from Luxury ſome;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſome from crimes that deeper ſtain,</hi>
+                  </l>
+                  <l>
+                     <hi>The blood of faithfull Lovers ſlain;</hi>
+                  </l>
+                  <l>
+                     <hi>Some from th' infectious blaſts, which come</hi>
+                  </l>
+                  <l>
+                     <hi>From the falſe Lover's perjur'd breath; with which the Trav'ling Sun,</hi>
+                  </l>
+                  <l>
+                     <hi>As he his conſtant ſtage does run,</hi>
+                  </l>
+                  <l>
+                     <hi>Bemires his gilded rayes,</hi>
+                  </l>
+                  <l>
+                     <hi>Which ev'ry moment ſhed it on the wayes;</hi>
+                  </l>
+                  <l>
+                     <hi>That by this means th' are now impaſſable become.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>
+                     <hi>And often then the Gods did daign</hi>
+                  </l>
+                  <l>
+                     <hi>To viſit Mortals here below;</hi>
+                  </l>
+                  <l>
+                     <hi>And by their preſence, eaſe that pain,</hi>
+                  </l>
+                  <l>
+                     <hi>(Though ſmall it was, compar'd with what attends us now,</hi>
+                  </l>
+                  <l>
+                     <hi>Since they no more that Heav'nly aid, on us beſtow)</hi>
+                  </l>
+                  <l>
+                     <hi>That pain unhappy Man e'en then was born to know.</hi>
+                  </l>
+                  <l>
+                     <hi>And as their Charity oft lead 'um down;</hi>
+                  </l>
+                  <l>
+                     <hi>So (as their ſacred Prieſts the Poets ſing,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe knowledge, or their truth none can in queſtion</hi>
+                  </l>
+                  <l>
+                     <hi>Like mighty Monarchs weary of a Crown, (bring)</hi>
+                  </l>
+                  <l>
+                     <hi>And of thoſe God-like pleaſures, Pow'r</hi>
+                  </l>
+                  <l>
+                     <hi>On Crowned heads does ſhow'r;</hi>
+                  </l>
+                  <l>
+                     <hi>Who wiſely yet the meaneſt try,</hi>
+                  </l>
+                  <l>
+                     <hi>And from the pompous noiſie ſports</hi>
+                  </l>
+                  <l>
+                     <hi>Of Princes and of Courts,</hi>
+                  </l>
+                  <l>
+                     <hi>T' a ſolitary Lawn, or ſome poor Cottage flie;</hi>
+                  </l>
+                  <l>
+                     <hi>The beſt of ſoiles to ſet off Majeſtie,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe greateſt part but in compariſon does lie.</hi>
+                  </l>
+               </lg>
+               <pb n="90" facs="tcp:104060:50"/>
+               <lg>
+                  <head>3.</head>
+                  <l>
+                     <hi>So they oft their Diviner joyes laid by,</hi>
+                  </l>
+                  <l>
+                     <hi>And courſer Earthly pleaſures try:</hi>
+                  </l>
+                  <l>
+                     <hi>In pleaſant ſhades they wantonly do roame;</hi>
+                  </l>
+                  <l>
+                     <hi>Or to ſome ſilly Shepherds homely Cottage come:</hi>
+                  </l>
+                  <l>
+                     <hi>Where they with eaſie Queſtions, ſound</hi>
+                  </l>
+                  <l>(<hi>But he as well the</hi> Delphic <hi>myſteries cou'd expound</hi>)</l>
+                  <l>
+                     <hi>His ſhallow wit; and ſport themſelves to ſee</hi>
+                  </l>
+                  <l>
+                     <hi>(Ah cunning of ſelf-flatterie!)</hi>
+                  </l>
+                  <l>
+                     <hi>Their knowledge, ith' poor Clowns ſimplicitie.</hi>
+                  </l>
+                  <l>
+                     <hi>Or in ſome Cryſtal Brook,</hi>
+                  </l>
+                  <l>
+                     <hi>They Bath'd; who ſecret virtue took</hi>
+                  </l>
+                  <l>
+                     <hi>From his bleſt Gueſts; and which ſome yet retain,</hi>
+                  </l>
+                  <l>
+                     <hi>Who free from mans pollution under ground have lain.</hi>
+                  </l>
+                  <l>
+                     <hi>No wonder then our Philoſophers ſearch proves vain,</hi>
+                  </l>
+                  <l>
+                     <hi>Since they are grown ſo wiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>They do not only modern Prieſts,</hi>
+                  </l>
+                  <l>
+                     <hi>By Envy too too much oppreſt,</hi>
+                  </l>
+                  <l>
+                     <hi>But th' Antient Prieſts the Poets too deſpiſe:</hi>
+                  </l>
+                  <l>
+                     <hi>And ſtrive to bind to Natures feeble Laws,</hi>
+                  </l>
+                  <l>
+                     <hi>What to immediate acts of Pow'r Almighty owes its cauſe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>4.</head>
+                  <l>
+                     <hi>'Twas in thoſe happy dayes when in a lonely Grove,</hi>
+                  </l>
+                  <l>
+                     <hi>On a ſweet flowry Bank,</hi>
+                  </l>
+                  <l>
+                     <hi>Where ev'ry Herb one wou'd ha' thought had ſtrove</hi>
+                  </l>
+                  <l>
+                     <hi>With ſmiling looks, (for they no leſs</hi>
+                  </l>
+                  <l>
+                     <hi>Than thankfull words a gratefull mind expreſs)</hi>
+                  </l>
+                  <l>
+                     <hi>The bounteous neighb'ring Brook to thank,</hi>
+                  </l>
+                  <l>
+                     <hi>For that ſweet life which from his cup they daily drank.</hi>
+                  </l>
+                  <l>
+                     <hi>Who loath to leave ſuch pleaſant companie,</hi>
+                  </l>
+                  <l>
+                     <hi>Chides his too haſty ſtreams, and bids 'um ſtay;</hi>
+                  </l>
+                  <l>
+                     <hi>And murmurs at that Law he muſt obey.</hi>
+                  </l>
+                  <pb n="91" facs="tcp:104060:50"/>
+                  <l>
+                     <hi>Yet though ſo rigorous it be,</hi>
+                  </l>
+                  <l>
+                     <hi>Delayes a while his Tribute to the Sea;</hi>
+                  </l>
+                  <l>
+                     <hi>Winding his lithie ſtreams e'en backward goes,</hi>
+                  </l>
+                  <l>
+                     <hi>And fain within his armes wou'd the lov'd place en<g ref="char:EOLhyphen"/>cloſe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>5.</head>
+                  <l>
+                     <hi>On this ſweet Bank the fair</hi> Diana <hi>ſtood;</hi>
+                  </l>
+                  <l>
+                     <hi>Her conſtant and beloved place,</hi>
+                  </l>
+                  <l>
+                     <hi>When wearied with the toylſome pleaſures of the Chace,</hi>
+                  </l>
+                  <l>
+                     <hi>She us'd the well known virtue of the Flood:</hi>
+                  </l>
+                  <l>
+                     <hi>Depriv'd of all thoſe Ornaments which Art,</hi>
+                  </l>
+                  <l>
+                     <hi>But all in vain, to Beauty does impart,</hi>
+                  </l>
+                  <l>
+                     <hi>Since ſimple Nature ſooner takes the heart.</hi>
+                  </l>
+                  <l>
+                     <hi>And beauteous Woman, much more beauteous ſhews</hi>
+                  </l>
+                  <l>
+                     <hi>In Natures naked dreſs,</hi>
+                  </l>
+                  <l>
+                     <hi>Than when with Gold, the beauty of the Mines,</hi>
+                  </l>
+                  <l>
+                     <hi>Or Silk, a poor Worms pride, ſhe ſhines;</hi>
+                  </l>
+                  <l>
+                     <hi>And like a painted Pageant goes:</hi>
+                  </l>
+                  <l>
+                     <hi>Hiding thoſe native Glories of her own,</hi>
+                  </l>
+                  <l>
+                     <hi>To boast anothers, and much leſs,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe value only by opinion's grown;</hi>
+                  </l>
+                  <l>
+                     <hi>Whilſt Natures ſelf on hers ſets the Impreſs,</hi>
+                  </l>
+                  <l>
+                     <hi>And has their real worth to all Mankind made known.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>6.</head>
+                  <l>
+                     <hi>And poor</hi> Actaeon <hi>a ſad proof has given,</hi>
+                  </l>
+                  <l>
+                     <hi>That this, though ſo neglected, Doctrine's true;</hi>
+                  </l>
+                  <l>
+                     <hi>When by the ſcorching Sun he hither driven,</hi>
+                  </l>
+                  <l>
+                     <hi>Instead of ſhades, found flames till then he never knew.</hi>
+                  </l>
+                  <l>
+                     <hi>He oft had ſeen before,</hi>
+                  </l>
+                  <l>
+                     <hi>But muſt, alas! no more,</hi>
+                  </l>
+                  <l>
+                     <hi>Gay Beauties trim and fine,</hi>
+                  </l>
+                  <l>
+                     <hi>In Silks and Teſſues ſhine;</hi>
+                  </l>
+                  <l>
+                     <hi>In rich Embroyderies,</hi>
+                  </l>
+                  <l>
+                     <hi>And coſtly dies.</hi>
+                  </l>
+                  <pb n="92" facs="tcp:104060:51"/>
+                  <l>
+                     <hi>Theſe he, and unconcern'd, had often ſeen;</hi>
+                  </l>
+                  <l>
+                     <hi>But when he in her naked Glories all array'd</hi>
+                  </l>
+                  <l>
+                     <hi>The fair</hi> Diana <hi>ſaw: Lightning it ſelf had been</hi>
+                  </l>
+                  <l>
+                     <hi>A ſlower Miniſter of Fate; no aid</hi>
+                  </l>
+                  <l>
+                     <hi>From helpfull Reaſon cou'd be brought,</hi>
+                  </l>
+                  <l>
+                     <hi>Or truſty Morals ſought;</hi>
+                  </l>
+                  <l>
+                     <hi>She inſtantly made all her own,</hi>
+                  </l>
+                  <l>
+                     <hi>And all his ſtrength was ſtraight o're thrown:</hi>
+                  </l>
+                  <l>
+                     <hi>His Tongue had quickly his known duty left,</hi>
+                  </l>
+                  <l>
+                     <hi>And idly to his Palate cleft.</hi>
+                  </l>
+                  <l>
+                     <hi>His heart th' Enemies part too took,</hi>
+                  </l>
+                  <l>
+                     <hi>And ev'ry ſence her Maſter then forſook;</hi>
+                  </l>
+                  <l>
+                     <hi>All but unhappy ſhe,</hi>
+                  </l>
+                  <l>
+                     <hi>Who muſt his utter ruine be;</hi>
+                  </l>
+                  <l>
+                     <hi>And taught him only how to look.</hi>
+                  </l>
+                  <l>
+                     <hi>Juſt like a ſenſeleſs Tree he ſtood,</hi>
+                  </l>
+                  <l>
+                     <hi>A new-made Denizon oth' Wood,</hi>
+                  </l>
+                  <l>
+                     <hi>Who though he more did ſee, as little underſtood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>7.</head>
+                  <l>
+                     <hi>Vext at his folly, thus the angry Goddeſs cryes;</hi>
+                  </l>
+                  <l>
+                     <hi>Why has too eaſie Heav'n</hi>
+                  </l>
+                  <l>
+                     <hi>T' a wretch, who knows not how to uſe't, ſuch for<g ref="char:EOLhyphen"/>tune giv'n?</hi>
+                  </l>
+                  <l>
+                     <hi>Can't he believe his eyes?</hi>
+                  </l>
+                  <l>
+                     <hi>Or am I ugly grown? Or can he ſpy</hi>
+                  </l>
+                  <l>
+                     <hi>A greater Beauty in ſome mortal eye?</hi>
+                  </l>
+                  <l>
+                     <hi>The curſe of hot deſires,</hi>
+                  </l>
+                  <l>
+                     <hi>And fond remorſe's Helliſh fires,</hi>
+                  </l>
+                  <l>
+                     <hi>Prey on his ſoul eternally:</hi>
+                  </l>
+                  <l>
+                     <hi>That he (though now too late) his loſs may ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>Whilſt ſilly Fame for this ſhall ſing my Chaſtitie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>8.</head>
+                  <l>
+                     <hi>This ſaid, ſhe ſwiftly glided through the air;</hi>
+                  </l>
+                  <l>
+                     <hi>But too deep rooted was the ſad deſpair,</hi>
+                  </l>
+                  <pb n="93" facs="tcp:104060:51"/>
+                  <l>
+                     <hi>Which ſhe in poor</hi> Actaeon<hi>'s breaſt had ſowne,</hi>
+                  </l>
+                  <l>
+                     <hi>To die; though ſhe the cauſe of it was fled, &amp; gone;</hi>
+                  </l>
+                  <l>
+                     <hi>That liv'd and proſp'rouſly, alas! did grow</hi>
+                  </l>
+                  <l>
+                     <hi>To thouſand branchy cares,</hi>
+                  </l>
+                  <l>
+                     <hi>The unhappy Antlars</hi>
+                  </l>
+                  <l>
+                     <hi>That now adorn his cloudy brow.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>9.</head>
+                  <l>
+                     <hi>In vain to pleaſant Fields he does repair,</hi>
+                  </l>
+                  <l>
+                     <hi>Where he was wont to eaſe his care:</hi>
+                  </l>
+                  <l>
+                     <hi>As much in vain he homeward goes;</hi>
+                  </l>
+                  <l>
+                     <hi>He in his hoſome bears his ſoes.</hi>
+                  </l>
+                  <l>
+                     <hi>Hot, fierce deſires, and loud regret,</hi>
+                  </l>
+                  <l>
+                     <hi>Still ſounding in his ears a freſh recheat;</hi>
+                  </l>
+                  <l>
+                     <hi>Till wearied out at longth he dies,</hi>
+                  </l>
+                  <l>
+                     <hi>And unto injur'd Beauty falls a Sacrifice.</hi>
+                  </l>
+                  <l>
+                     <hi>Since when, men by his ſad example taught,</hi>
+                  </l>
+                  <l>
+                     <hi>Need not by Beauty to be ſought.</hi>
+                  </l>
+                  <l>
+                     <hi>They are but very few who ſuch ſweet hours wou'd loſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And modeſtly ſuch great good fortune cou'd refuſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="14" type="day">
+               <pb n="94" facs="tcp:104060:52"/>
+               <head>The Fourteenth Day.</head>
+               <p>THe Queen had wound ſo hand<g ref="char:EOLhyphen"/>ſomely into this Fiction, a Satyr againſt baſhfull Lovers, with the deſcription of the too preſump<g ref="char:EOLhyphen"/>tuous, ſhe repeated to the King the diſcourſe which caus'd this Gallan<g ref="char:EOLhyphen"/>try, in ſuch a malicious manner, and the Dutcheſſes looks betray'd her ſo often, that ſhe hop'd thereby to ſtir up his Jealous humour, and make him evidently perceive his Miſtreſſes unfaithfulneſs. But <hi>Octa<g ref="char:EOLhyphen"/>vo</hi>'s ſeeming Inſenſibility, his con<g ref="char:EOLhyphen"/>ſtancy at the Court, and the ſtrata<g ref="char:EOLhyphen"/>gems of Madam <hi>de Valentinois,</hi> ſo blinded this poor Prince, that all deſigns to make him ſee more clearly miſcarried. Therefore the Queen reſolv'd to ſpeak more plainly, and knowing <hi>Marots</hi> fide<g ref="char:EOLhyphen"/>lity, engaged him to make Verſes, to be underſtood contrary to what
+<pb n="95" facs="tcp:104060:52"/>they expreſs'd, of the whole Court, and eſpecially of Madam <hi>de Valenti<g ref="char:EOLhyphen"/>nois;</hi> nor would ſhe be omitted her ſelf, that it might appear with the greater plauſibility. Theſe are all that came to our knowledge.</p>
+               <lg>
+                  <l>
+                     <hi>THe Dutcheſs is as chaſte as fair;</hi>
+                  </l>
+                  <l>
+                     <hi>As cruel as fell Tigers are:</hi>
+                  </l>
+                  <l>
+                     <hi>Of all the wounds ſhe gives,</hi>
+                  </l>
+                  <l>
+                     <hi>None e'er cou'd find relief,</hi>
+                  </l>
+                  <l>
+                     <hi>Or but e'en pitty for their grief,</hi>
+                  </l>
+                  <l>
+                     <hi>Except our Prince, for whom alone ſhe lives.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The Great</hi> Italian <hi>he has not</hi>
+                  </l>
+                  <l>
+                     <hi>The least advantage on her got:</hi>
+                  </l>
+                  <l>
+                     <hi>For him alas, poor ſot!</hi>
+                  </l>
+                  <l>
+                     <hi>As people now in private prate,</hi>
+                  </l>
+                  <l>
+                     <hi>She pierc'd unto the very heart,</hi>
+                  </l>
+                  <l>
+                     <hi>And made him play</hi> Actaeon<hi>'s part;</hi>
+                  </l>
+                  <l>
+                     <hi>As</hi> Marot <hi>did relate.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>If that the Queen her ſelf ſhou'd ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>In danger of the Regencie;</hi>
+                  </l>
+                  <l>
+                     <hi>The Dutcheſs, ſhe no doubt wou'd call,</hi>
+                  </l>
+                  <l>
+                     <hi>To help to dry thoſe tears wou'd fall</hi>
+                  </l>
+                  <l>
+                     <hi>At her dear Husband's Funeral.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The Conſtable's an honeſt man,</hi>
+                  </l>
+                  <l>
+                     <hi>Let him get all the pow'r he can,</hi>
+                  </l>
+                  <l>
+                     <hi>Or wrape or wring in</hi> France;</l>
+                  <l>
+                     <hi>For his great honeſty,</hi>
+                  </l>
+                  <l>
+                     <hi>And known integrity,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis a ſmall recompence.</hi>
+                  </l>
+               </lg>
+               <pb n="96" facs="tcp:104060:53"/>
+               <p>Theſe mock-truths, as they were then call'd, were cunningly ſpread through all the Court; and the Queen complaining the firſt of her affront, made them ſo publick by her ſeem<g ref="char:EOLhyphen"/>ing trouble, that they ſoon came to the Kings ear, who was tranſported with Jealouſie; and being aſtoniſh'd to think the two perſons he moſt e<g ref="char:EOLhyphen"/>ſteem'd, ſhould be ſo guilty, he went to the Dutcheſs, who ſaw in his face the trouble of his mind: this politick Lady, who knew what had paſt, and was prepar'd for what was to come, received the King with an appearing grief, which ſuſpended all his anger: and preventing what ſhe thought his Majeſty would ſay, with a flood of forc'd tears, (which women of her humour have always at com<g ref="char:EOLhyphen"/>mand) ſhe told him, ſhe was very unhappy to be the mark of the Queens malitious invention, and to ſee her innocence and virtue traduced by thoſe perſons whom
+<pb n="97" facs="tcp:104060:53"/>her Love to his Majeſty obliged her to reſpect. Then ſhewing him the Verſes, as if ſhe knew not he had ſeen them, begg'd his per<g ref="char:EOLhyphen"/>miſſion to retire into a Monaſtery, that ſo miſerable a perſon might leave the world, of which he had made her the ſcorn and ſport. This was enough to perſwade a Prince blinded with Love, into a confidence of his Miſtreſſes Loy<g ref="char:EOLhyphen"/>elty. He lifts her up with a great deal of tenderneſs, and after he had made her ſwear ſome of thoſe Oaths which the direction of the Will keeps from Perjury, he conjur'd her to calm her grief, and ſacri<g ref="char:EOLhyphen"/>fice to him her juſt anger. The Dutcheſs pretended ſhe could not bring her ſelf to that mo<g ref="char:EOLhyphen"/>deration, and ſtill deſir'd leave to withdraw; then cunningly bringing into their diſcourſe, that the Queens hatred to her and the Duke <hi>Octavo,</hi> proceeded
+<pb n="98" facs="tcp:104060:54"/>from the allyance which his Maje<g ref="char:EOLhyphen"/>ſty intended for the young <hi>Diana,</hi> whom ſhe ſtil'd, that poor forſaken Princeſs. The tenderneſs of a Father and a Lover, joyn'd ſo ſtrong<g ref="char:EOLhyphen"/>ly to overcome our <hi>Henry,</hi> that he went immediately from the Dutcheſs to the Queen, to whom he complain'd ſo ſharply of the trick he ſuſpected ſhe had put up<g ref="char:EOLhyphen"/>on his Miſtreſs, as made them ſee 'twas in vain to undertake her ruine.</p>
+            </div>
+            <div n="15" type="day">
+               <head>The Fifteenth Day.</head>
+               <p>THis unexpected event did ſo incenſe the Queen, (who as we obſerved before was an <hi>Italian</hi>) that ſhe did all that lay in her power to be reveng'd; ſhe oblig'd the greateſt part of the Counſel to op<g ref="char:EOLhyphen"/>poſe the Kings Intentions to aſſiſt <hi>Octavo,</hi> and ſecretly ſpread amongſt
+<pb n="99" facs="tcp:104060:54"/>the people, that the Court had rather ſacrifice the lives of 40000 men to the Marriage of the young <hi>Diana</hi> with <hi>Farneſe,</hi> than ſuccour a young Queen always in league with <hi>France,</hi> and who offer'd the Dolphin that Crown they deſired the King to preſerve: theſe ſtratagems and re<g ref="char:EOLhyphen"/>ports reduc'd the Dukes affairs to ſo low an ebb, as made him even diſ<g ref="char:EOLhyphen"/>pair of any good ſucceſs: But he had ſtill left him the pleaſure of re<g ref="char:EOLhyphen"/>ceiving the Dutcheſſes conſolations; ſhe offer'd not a tear to her policy, but he privately wip'd away; and this officious Lady did ſo counter<g ref="char:EOLhyphen"/>mine the Queens intrigues, and confuſe her deſigns, that ſhe could hardly clear them. The two Ri<g ref="char:EOLhyphen"/>vals hated each other to that ex<g ref="char:EOLhyphen"/>tremity, as ever and anon made them ready to cut one anothers throat; the Duke knew the Earl was the author, or at leaſt the in<g ref="char:EOLhyphen"/>ſtrument, of whatever happened
+<pb n="100" facs="tcp:104060:55"/>contrary to Madam <hi>de Valentinois</hi> intereſt; and the Earl knowing per<g ref="char:EOLhyphen"/>fectly his Rivals happineſs, would have given his life to hinder his enjoyment. One day when they were both in the Kings Chamber, attending the refult of the Counſel concerning their affairs, <hi>Octavo</hi> having made the Earl a reply to ſomething he ſpoke as Ambaſſador, and which principally concern'd him, there paſs'd ſeveral ſharp words concerning their different qualities, which at laſt caus'd a quarrel. They went down the back ſtairs into the Forreſt, as if they had gone to walk, where they preſently drew, and ſo furiouſly be<g ref="char:EOLhyphen"/>gan the fight, as might juſtly have preſag'd a dangerous event, if the Marqueſs <hi>de Jarnac</hi> and the Earl of St. <hi>Andre</hi> (advertis'd by an Officer of the Chamber) had not run to part them. 'Tis not imaginable what a noiſe this Duel made in the Court;
+<pb n="101" facs="tcp:104060:55"/>two men of their quality to go to<g ref="char:EOLhyphen"/>gether by the ears at the Kings Chamber door, and in a time whilſt they were managing affairs of ſo great importance, ſeem'd a thing too ſtrange to be believ'd; but the Queen and her faction made nothing of it, attributing that to Love, which appear'd to others an effect of their ambition; ſaying, 'twas no new thing for Rivals to quarrel. This ſo powerfully a<g ref="char:EOLhyphen"/>wak'd the Kings jealouſie, as oblig'd the Dutcheſs to abſent her ſelf for ſome time from the Court, to cure his ſuſpicions: ſhe retir'd to a little houſe ſhe had upon a River, which runs a <hi>French</hi> League from <hi>Anet;</hi> this place being deſign'd for Bathing, ſhe fain'd her ſelf not well, and to have need of that remedy.</p>
+            </div>
+            <div n="16" type="day">
+               <pb n="102" facs="tcp:104060:56"/>
+               <head>The Sixteenth Day.</head>
+               <p>THis complyance with what Madam <hi>de Valentinois</hi> call'd the Kings infirmities, ſo calm'd this Princes mind, that it ſeem'd impoſſible to trouble it any more. His Miſtreſs left the Court without repugnance, the Duke and the Earl were with him; and under a pretence of honouring the Dutcheſs, ſhe was ſo ſtraightly guarded, that he durſt have an<g ref="char:EOLhyphen"/>ſwer'd for her as for himſelf. But of what uſe are Guards, when Love undertakes to deceive them? the Duke ſaw the beautifull <hi>Diana</hi> every night, witty St. <hi>Brune</hi> ha<g ref="char:EOLhyphen"/>ving found ſo great a convenience to remedy the troubles of their ab<g ref="char:EOLhyphen"/>ſence, that neither all the Kings precautions, nor the Queens ſnares, interrupted any of their enjoy<g ref="char:EOLhyphen"/>ments. The place where Madam
+<pb n="113" facs="tcp:104060:56"/>
+                  <hi>de Valentinois</hi> abſented her ſelf, was diſtant from any other habitation, being built after the Model of the old <hi>Roman</hi> Baths, and which (as we ſaid before) ſerv'd for no other uſe; and accordingly had a private way into the River, that one might waſh there when 'twas fair weather. Through this Paſſage the happy <hi>Farneſe</hi> was brought into the Dut<g ref="char:EOLhyphen"/>cheſſes Chamber every night. He always ſhew'd himſelf at the Kings Supper and Bed-times, as if he had nothing to do but give his atten<g ref="char:EOLhyphen"/>dance; as ſoon as the King was in bed, he went to a place in the For<g ref="char:EOLhyphen"/>reſt, where his Horſe was ready, and from thence he went to the River ſide, St. <hi>Brune</hi> having a morning Gown ready on the other ſide, where he paſt through the Vault, and entertain'd the fair <hi>Diana</hi> two hours: Theſe nocturnal adventures laſted ten or a dozen nights, with a ſucceſs for which our Lovers
+<pb n="104" facs="tcp:104060:57"/>could not give Love thanks enough. The King perfectly ſatisfied with his Miſtreſſes proceedings, began to propoſe her return; the Queens jealouſie being ſomewhat appeaſed by the Dutcheſſes abſence, ſeem'd weary of perſecuting her; but the jealous Earl fed not himſelf with theſe vain appearances, the Letters he had ſeen taught him more of their affairs, than to imagine our true Lovers kindneſs could be unactive. And the more the Duke was indiffe<g ref="char:EOLhyphen"/>rent for Madam <hi>de Valentinois</hi> ab<g ref="char:EOLhyphen"/>ſence, the more the Ambaſſador was perſwaded it took nothing from their pleaſures: therefore he re<g ref="char:EOLhyphen"/>newed his bribes and his promiſes to <hi>Octavo's</hi> Servant, that helpt him to intercept the Letters; and although ſince that accident he was not ſo much in his Maſters favour as before, yet by him he diſcover'd our Lo<g ref="char:EOLhyphen"/>vers private Journeys, and reſolv'd to watch him, and not truſt the
+<pb n="105" facs="tcp:104060:57"/>conduct of his affairs to any but him<g ref="char:EOLhyphen"/>ſelf; and following him at a diſtance, to the place where he put off his Clothes, he ſaw him ſwim over the River, and enter the Vault which led to <hi>Diana</hi>'s Chamber. How unpleaſantly the jealous Ambaſſa<g ref="char:EOLhyphen"/>dor ſpent that time his Rival paſt ſo agreeably! He had a hundred temp<g ref="char:EOLhyphen"/>tations to follow him, and either participate the Dukes good fortune, or ſtab him in thoſe Armes where he imagin'd him. But beſides that, it was doubtfull whether the door were not ſhut after <hi>Octavo</hi> came in: this raſh enterprize was difficult to be executed, the Earl being alone, without other Armes than his Sword. And though it had been poſſible to kill his Rival, as he thought, what he had experienc'd of Madam <hi>de Valentinois</hi> Policy, made him fear the effect of what he had no witneſs to prove: he there<g ref="char:EOLhyphen"/>fore went ſoftly back again, and
+<pb n="106" facs="tcp:104060:58"/>rowling a thouſand different thoughts in his head, choſe that he judg'd moſt profitable. He reſolv'd then to be at the Dutcheſſes a<g ref="char:EOLhyphen"/>partment the next night, in <hi>Octavo</hi>'s ſtead, and threaten her to tell the King all he had ſeen, if ſhe would not grant him the ſame favour with his Rival; and as it neither became the reſpect he ow'd the Queen, nor favour'd her revenge, to communicate to her this reſolution, ſo he kept it from her as a great ſe<g ref="char:EOLhyphen"/>cret; and taking no Counſel but of his Love, he expected the following night with unſpeakable impati<g ref="char:EOLhyphen"/>ence.</p>
+            </div>
+            <div n="17" type="day">
+               <head>The Seventeenth Day.</head>
+               <p>WHen jealouſie is diſſembled, 'tis not half had, being an evaporation whoſe firſt beginnings are hard to ſuppreſs, but when it
+<pb n="107" facs="tcp:104060:58"/>hath once o'recome it ſelf, with eaſe vanquiſheth the diſtruſts of others. The Earl appear'd ſo calm at the King's riſing, as if his mind had not been in the greateſt per<g ref="char:EOLhyphen"/>plexity that poſſible could be; and having liv'd quietly with the Duke of <hi>Parma,</hi> ſince the King reconci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed them, he took him to dinner that day; and when they roſe from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able, went to the Duke <hi>D'aumales,</hi> who kept his Chamber for a hurt he had received in his foot the laſt Hunting. When the ordinary time of going to the Queens apartment was come, they went together, and follow'd her a walking, then ſaw her ſup. The Duke was going his uſual Voyage, when the Earl found a trick to ſtop him, whiſper<g ref="char:EOLhyphen"/>ing the Queen, that for ſome rea<g ref="char:EOLhyphen"/>ſons he would make known to her the next day, 'twas neceſſary to the Dutcheſſes ruine, that ſhe ſhould retain the Duke near her the great<g ref="char:EOLhyphen"/>eſt
+<pb n="108" facs="tcp:104060:59"/>part of the night: This jealous Princeſs embracing this occaſion o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> revenge, without knowing more o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Ambaſſadors deſign, after Sup<g ref="char:EOLhyphen"/>per propoſed falling to Play, and deſired the Duke to make one this propoſition caus'd ſo much trouble to the amorous <hi>Octavo,</hi> as it might be obſerved in his face; but the King coming in and approving the Queens motion, he durſt not contradict it, but play'd with ſo much diſtraction, and told the Clock with ſo great diſturbance, as would have rais'd pitty in any but a Rival. But he had more cauſe to grieve, when the Queen upon a ſign from the Earl, ſeem'd to grow earn<g ref="char:EOLhyphen"/>eſt in her play, and reſolv'd to paſs with it the reſt of the night; the Duke thought he ſhould have fall'n from his Chair at this diſcourſe, anſwering the Queen, that with<g ref="char:EOLhyphen"/>out queſtion ſhe ſpoke in raillery, and that ſitting up ſo long, might
+<pb n="109" facs="tcp:104060:59"/>prejudice her health; ſhe reply'd, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he found no inconvenience in watching, and deſir'd the King to gratifie her in it: he readily con<g ref="char:EOLhyphen"/>ſented, being willing to pleaſe her in ſmall things, that ſhe might give him his liberty in matters of greater concernment; <hi>Farneſe</hi> not knowing how to break off, ſince the King approved it, was forc'd to have patience, and paſs a night deſtin'd to ſo much pleaſure, in an exerciſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he naturally lov'd not, and which that juncture made inſupportable to him. The Earl obſerv'd the agi<g ref="char:EOLhyphen"/>tations of his mind, by the wildneſs of his looks, and felt a joy which ſeem'd to him a prediction of his approaching happineſs. Then ſee<g ref="char:EOLhyphen"/>ing all ſecure, and not fearing any obſtacle in his deſign, left her Ma<g ref="char:EOLhyphen"/>jeſty, and rid to the ſame place where he ſaw <hi>Octavo</hi> the evening before. The happineſs he had al<g ref="char:EOLhyphen"/>ready promis'd himſelf, flatter'd ſo
+<pb n="110" facs="tcp:104060:60"/>agreeably his imaginations during his Voyage, that he thought the hour already come he had ſo long and ſo ardently wiſh'd for. He ſtudied his Oration, and not be<g ref="char:EOLhyphen"/>lieving that the Dutcheſs would ſacrifice her favour and his private intrigue, to her loyalty towards the Duke, (which ſhe obſerv'd ſo ill with the King) look'd upon his future happineſs as infallible; when he felt himſelf entangled in a net, which not only ſtopt him in the middle of his courſe, but put him in danger of drowning. He ſtrug<g ref="char:EOLhyphen"/>led with ſo much violence, that being ſtrong he would have broke the net, had thy given him time; but the noiſe he made in the River with his ſtrugling, caus'd ſome of the Centinels to come to the water ſide, where they drew him out as ſoon and as well as they could, and led him to the Guard, whither he ſcrupled to go: this kind of
+<pb n="111" facs="tcp:104060:60"/>proceeding ſurprizing him, he thought they did it of their own accord, and told his name, not fearing but that when they knew it, they would give him his liberty to go whither he pleas'd. But his opini<g ref="char:EOLhyphen"/>on deceiv'd him; the net that catch'd him, was not laid by chance. The King being advertis'd by the Spyes (which under the notion of Guards he had plac'd about the Dutcheſs) that every night they heard a noiſe in the water, he deviſed this trap. The lot fell upon the unhap<g ref="char:EOLhyphen"/>py, and not the guilty. The Earls ill fortune being ſuch, that the ar<g ref="char:EOLhyphen"/>tifice he uſed to keep the Duke at <hi>Anet,</hi> was the cauſe of his delivery from the ſnare laid for him.</p>
+            </div>
+            <div n="18" type="day">
+               <pb n="112" facs="tcp:104060:61"/>
+               <head>The Eighteenth Day.</head>
+               <p>THe Play could not have been interrupted by a ſtranger acci<g ref="char:EOLhyphen"/>dent, nor more unlook'd for than this. The King made an out-cry when they brought him the news, as if he had receiv'd ſome mortal wound; and as our firſt tranſ<g ref="char:EOLhyphen"/>ports are ordinarily indiſcreet, he told that had hapned to all about him. The Queen you muſt think was ſurpriz'd: All that heard the adventure, could not forbear laugh<g ref="char:EOLhyphen"/>ing in their ſleeves, as at the plea<g ref="char:EOLhyphen"/>ſanteſt that e're befell. But the Duke was ſo overcome with rage and jealouſie, that he had rather have choſen the deplorable con<g ref="char:EOLhyphen"/>dition of the unfortunate Earl, than that which the Dutcheſſes ſeem<g ref="char:EOLhyphen"/>ing infidelity had put him in: he withdrew himſelf to his own apart<g ref="char:EOLhyphen"/>ment, liberally nurſing the whole
+<pb n="113" facs="tcp:104060:61"/>Sex, and his Miſtreſs more than all of them together; no melancholy reflections but troubled his brains, nor reproaches of a betray'd Lover that he utter'd not; and having paſs'd the reſt of the night without undreſſing himſelf, at day-break he got on horſeback, and wandred about the Forreſt without knowing whither he went, or to what end he came out: one while he would take Poſte and go ſo far, that he ſhould never more hear of <hi>Anet</hi> or <hi>Valentinois;</hi> then again, he would return to the King, and endeavour to moderate his firſt diſpleaſures, and defend the Dutcheſs from his anger; then from this thought, he paſs'd to thoſe teſtimonies of Love he had receiv'd from that fair per<g ref="char:EOLhyphen"/>ſon, which ſome places in the For<g ref="char:EOLhyphen"/>reſt brought to his mind, when per<g ref="char:EOLhyphen"/>ſwading himſelf the Earl had en<g ref="char:EOLhyphen"/>joy'd the ſame, he reſolv'd to take from him the remembrance with
+<pb n="114" facs="tcp:104060:62"/>his Life: But perceiving theſe violent deſigns, like all the pro<g ref="char:EOLhyphen"/>ducts of haſty and tumultuous thoughts, bore but little ſhew of reaſon, he fix'd upon that of ſee<g ref="char:EOLhyphen"/>ing the Dutcheſs, and to reproach her unfaithfulneſs in the moſt extra<g ref="char:EOLhyphen"/>vagant terms his rage could inſpire; and having evaporated in this man<g ref="char:EOLhyphen"/>ner his firſt tranſport, contemn, forget, and were it poſſible, hate her too, as thinking her unworthy the eſteem or Love of ſo faithfull a perſon as himſelf. He no ſooner took this reſolution, than he haſt<g ref="char:EOLhyphen"/>ned to execute it, and rid to the Bath as faſt as his horſe could gallop; his fury not leaving him any con<g ref="char:EOLhyphen"/>duct, he came thither at broad day, and went ſtreight to her Chamber, without firſt asking her leave; ſhe ſhouted for joy at the ſight of him, and lifting up her eyes to Heaven in ſign of acknowledgment, Ah, my dear Duke, (ſaid ſhe) your pre<g ref="char:EOLhyphen"/>ſence
+<pb n="115" facs="tcp:104060:62"/>brings me out of a great perplexity. Yes, Madam, ſaid the Duke angerly, it ſhews you upon which of your Lovers the lot is fallen, and as the provident care you always take, ſtill keeps you one in reſerve, the Earl is only taken in the trap, and I am yet in a condition to take his place, the Dutcheſs knew not any circum<g ref="char:EOLhyphen"/>ſtance of what had hapned the night before, being only inform'd by St. <hi>Brune,</hi> that the perſon ſhe expected at the Vault, had met with a ſnare in his paſſage; and the Kings expreſs order having hindred her further knowledge, ſhe fear'd <hi>Octavo</hi> had been in the net where the Earl was taken, But when the Dukes diſ<g ref="char:EOLhyphen"/>courſe gave her ſome inſight into the truth, ſhe thought it ſo pleaſant, that the imagination put her in a ve<g ref="char:EOLhyphen"/>ry pleaſant humour; and looking up<g ref="char:EOLhyphen"/>on the Duke with a brisk airy ſmile, which exceedingly became her,
+<pb n="116" facs="tcp:104060:63"/>What think you, (ſaid ſhe to him) don't you find me a wo<g ref="char:EOLhyphen"/>man of great wit to order things ſo well? a Lady of leſs prudence than I, would have loſt by this ad<g ref="char:EOLhyphen"/>venture the only ground of her plea<g ref="char:EOLhyphen"/>ſure, whilſt I know yet where to be recompenc'd for my loſs. What, Madam! (cry'd the Duke, almoſt aſtoniſh'd) do you make no greater ſcruple of carrying on two amours at the ſame time? That would be a very pritty ſcruple, reply'd the Dut<g ref="char:EOLhyphen"/>cheſs, continuing her raillery; pray tell me, does what you call infi<g ref="char:EOLhyphen"/>delity, leave any marks behind it? does it make the skin leſs fair, or the eyes leſs ſparkling, for having ex<g ref="char:EOLhyphen"/>tended the bounds of our kindneſs to two ſeveral Lovers? No, no my good Lord, (ſaid ſhe) 'tis juſt contrary; a multitude of Captives, is a mark of the conquerors valour; and the more we are lov'd, the more are we charming; and I believe my
+<pb n="117" facs="tcp:104060:63"/>ſelf enrich'd with as many new Graces, as I make new conqueſts. Ah Madam, cry'd the Duke, (who could no longer ſuffer the continu<g ref="char:EOLhyphen"/>ation of this diſcourſe) there's no man that hath a ſoul, or is any way capable of a true and noble paſſion, will be of the number of your con<g ref="char:EOLhyphen"/>queſts, after this knowledge of your conduct; I eſteem'd your compliance with the Kings deſires, as the effect of your Intereſt, which I could not blame; and was ſo prepoſſeſs'd, that I thought your inclination for me, produc'd by the influence of the Stars, which had not power to do ſo much for any other; but ſince your favours are the weakneſs of your conſtitution, which you cannot over<g ref="char:EOLhyphen"/>come, they are ſo many affronts to a generous perſon. And though the reſpect I bear your Sex, hinders me from divulging your procedure, it ſhall never hinder the conceiving an everlaſting contempt of them. The
+<pb n="118" facs="tcp:104060:64"/>Dutcheſs, who rejoyc'd exceedingly at his tranſport, let him take his Carreer a good while, till pittying <hi>Octavo</hi>'s trouble, My Lord Duke, ſaid ſhe, I could never have thought 'twould have been ſo eaſie for you to conceive ſuch unreaſonable Ideas of me; I imagin'd you had better known the Characters of thoſe kind<g ref="char:EOLhyphen"/>neſſes I have ſhewn you, than to think them a habit of conſtitution; Go, ungratefull as you are, (continu'd ſhe, in a paſſionate manner) you de<g ref="char:EOLhyphen"/>ſerve not that I ſhould diſabuſe you; but ſince I have more goodneſs, than you injuſtice, I will let you know that I have no part in the Earls enterprize, nor know any thing of it, but what you your ſelf have told me. By theſe words, ſhe made him ſo clearly ſee the truth of what ſhe ſaid, and accompanied them with ſo many Oaths and kind re<g ref="char:EOLhyphen"/>proaches, that ſhe oblig'd the Duke to beg her pardon and ex<g ref="char:EOLhyphen"/>cuſe;
+<pb n="119" facs="tcp:104060:64"/>which he had no great diffi<g ref="char:EOLhyphen"/>culty to obtain, the tranſports of Lovers never paſſing for a crime with knowing Ladies, whether they riſe from their jealouſie, or their paſſion, they make always a pleaſant figure in Loves intrigue. After they had ſpent what time was neceſſary to their reconciliation, and had confirmed it with the greateſt tenderneſs of Love, they thought what means was neceſſary to ſettle the Kings mind, which they knew was very much diſcompos'd; the Duke went to imploy <hi>Montmorency</hi> in this affair, but the Dutcheſs truſt<g ref="char:EOLhyphen"/>ing her own charms, more than all o<g ref="char:EOLhyphen"/>ther perſwaſions, haſtened to <hi>Anet</hi> to endeavour her ſelf her own juſtifi<g ref="char:EOLhyphen"/>cation, and ſucceeded in this de<g ref="char:EOLhyphen"/>ſign as well as formerly. The Earl could not deny that he had attempt<g ref="char:EOLhyphen"/>ed this enterprize without <hi>Diana</hi>'s knowledge, and what he alledg'd of the example ſhewn him, having
+<pb n="120" facs="tcp:104060:65"/>no witneſs, ſhe made it paſs for a fixi<g ref="char:EOLhyphen"/>on, calling the Earl baſe unworthy fellow, and lyar, with ſo much confi<g ref="char:EOLhyphen"/>dence, that ſhe perſwaded the King he was really ſo. The ill conduct of this Ambaſſador, caus'd the Queen of <hi>Scotland</hi> to call him home, whither he return'd as ill ſatisfied with the ſincerity of the <hi>French</hi> Ladies, as the Dutcheſs with the wilfulneſs of the <hi>Scotch</hi> Gallants: he would have had recourſe to the Queen of <hi>France,</hi> as he uſed formerly to do, but ſhe was ſo extremely angry, for his making her ſeem to have been aſſiſting to a part of his deſign, that ſhe would never ſpeak word in his behalf.</p>
+            </div>
+            <div n="19" type="day">
+               <pb n="121" facs="tcp:104060:65"/>
+               <head>The Nineteenth Day.</head>
+               <p>LOvers are never in more dan<g ref="char:EOLhyphen"/>ger of being diſcover'd, than when they are left to themſelves; whilſt a Rival obſerves them, or an injur'd perſon troubles them, they uſe all their wit to ſecure them<g ref="char:EOLhyphen"/>ſelves from the traps which they imagine are laid to catch them; but as ſoon as they leave their care, upon the opinion of the publique inadvertency, they never ſcape be<g ref="char:EOLhyphen"/>ing ſurprized. Since the Earls de<g ref="char:EOLhyphen"/>parture, the Court heard no more of Intrigues or Jealouſies; the King perſwaded of his Miſtreſſes faith<g ref="char:EOLhyphen"/>fulneſs, and ſucceſsfull abroad, en<g ref="char:EOLhyphen"/>joy'd a ſolid tranquility; the Duke learning every day the <hi>French</hi> Cu<g ref="char:EOLhyphen"/>ſtoms, augmented his charms and alſo his enjoyments, his pretended Inſenſibility giving him leave to complement all the Ladies in the
+<pb n="122" facs="tcp:104060:66"/>Court, without having an obliga<g ref="char:EOLhyphen"/>tion to any, which made him paſs a life whoſe joyes had no alloys but the retarding his concerns: But Love is a ſeditious fellow, and can't live quietly, and ſeems to renounce his nature when he is long in a place without giving notice of his being there. One evening the Dutcheſs was in an Arbor, cover'd with that ſort of Roſes which blow every moneth, and are ſo remarkable for their pleaſant ſcent, a little Bank of graſs looſely beſpread with the falling leaves, made a bed as it were of Roſes; and the King being gone to <hi>Paris,</hi> about ſome important affair, the kind Madam <hi>de Valentinois</hi> there expected the Duke of <hi>Parma,</hi> without other diſturbance than her impatience. St. <hi>Brune</hi> watch'd at the entrance of the Arbor, and the Dutcheſs being almoſt lull'd aſleep, rather by an amorous fit, than ſleep
+<pb n="123" facs="tcp:104060:66"/>it ſelf, expected no ſurprize but from the Duke <hi>Octavo,</hi> when the King interrupted her reſt; he re<g ref="char:EOLhyphen"/>turned from <hi>Paris</hi> ſooner than ſhe imagin'd, and having met one of the Dutcheſſes Servants near <hi>Anet,</hi> who told him ſhe was in the Gar<g ref="char:EOLhyphen"/>den, he fanci'd it a pleaſing piece of Gallantry to ſurprize her in her ſolitude; wherefore he made all his Attendants ſtop, and cauſing a private door of the Garden to be open'd, that came into the Fields, he went as if he had been guided by the God of Love, to the place where his Miſtreſs repos'd her ſelf. Though the day was almoſt ſhut in, St. <hi>Brune</hi> perceiv'd him through the Railes, but ſeeing the Duke arrive on the other ſide, all that ſhe could do was to feign a Cough, and run to meet <hi>Octavo,</hi> to hinder him from coming where then he had nothing to do. The Dutcheſs, who took St. <hi>Brunes</hi> advertiſement for the
+<pb n="124" facs="tcp:104060:67"/>ſignal of her Lovers arrival, and her mind being fill'd with the thoughts of him, fancied ſhe ſaw him, and reach'd out her arm to embrace him, with a tranſport that caus'd a very violent one in the poor Prince: Ah my dear <hi>Farneſe,</hi> (ſaid ſhe) how long have you made me expect you? The King trem<g ref="char:EOLhyphen"/>bled at theſe words, and grew ſtiff in her armes, from whence he had torn himſelf if he had had ſtrength enough left him; but Madam <hi>de Valentinois</hi> looking upon this as the trick of a cunning Lover, who ſome<g ref="char:EOLhyphen"/>times by retarding his joy, makes it the more violent, ſhe redoubled her Careſſes and embraces, accom<g ref="char:EOLhyphen"/>panying them with a thouſand kind words as witty as paſſionate, which put the King into ſo violent a rage, that there was no outragious words but he ſaid at his firſt emotion; his voice ſupplying the want of light, <hi>Diana</hi> perceiv'd her error, and pro<g ref="char:EOLhyphen"/>miſing
+<pb n="125" facs="tcp:104060:67"/>her ſelf to repair it by her policy, ſhe try'd to ſtop the Kings going out; but 'twas impoſſible to do it, he got from her embraces, which he eſteem'd no better than thoſe of a Serpent, or ſomething more dangerous; and his preſent fury making him forget the mode<g ref="char:EOLhyphen"/>ration due to his dignity, 'tis ſaid he began his revenge by ſome blows with his fiſt, and teſtifi'd plainly in that Adventure, that Monarchs are men as ſoon as they become Lovers.</p>
+            </div>
+            <div n="20" type="day">
+               <head>The Twentieth Day.</head>
+               <p>THis unexpected blow of for<g ref="char:EOLhyphen"/>tune, ſo impoſſible to be fore<g ref="char:EOLhyphen"/>ſeen by Madam <hi>de Valentinois,</hi> ſo amaz'd her, that ſhe ſunk under it: ſhe cry'd, tore her hair, and according to the management of
+<pb n="126" facs="tcp:104060:68"/>other imprudent Women, grum<g ref="char:EOLhyphen"/>bled at St. <hi>Brune</hi> till ſhe talk'd idly; her fury paſs'd from the Confident to the Lover, ſhe curs'd the time wherein he appear'd lovely to her, reſolving never to love him more; and being of a high ſpirit, and knowing Hypocriſie of great uſe to crafty wantons, ſhe talk'd of nothing but the great effects of Re<g ref="char:EOLhyphen"/>ligion, and writ the King admirable Sermons upon the inſtability of the things of this World; and then making that retreat ſhe had ſo often counterfeited, touch'd the King ſo much by this mark of her Repen<g ref="char:EOLhyphen"/>tance, that he could not reſiſt—</p>
+               <trailer>The End.</trailer>
+               <pb facs="tcp:104060:68"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
